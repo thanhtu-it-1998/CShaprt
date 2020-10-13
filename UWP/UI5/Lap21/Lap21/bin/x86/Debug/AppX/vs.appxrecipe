@@ -30,7 +30,7 @@
     <AppXManifest Include="D:\Profile\CSharp\CShaprt\UWP\UI5\Lap21\Lap21\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-10-12T16:01:52.649</Modified>
+      <Modified>2020-10-13T01:40:59.720</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -90,11 +90,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI5\Lap21\Lap21\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-10-12T16:01:52.195</Modified>
+      <Modified>2020-10-13T01:40:58.837</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI5\Lap21\Lap21\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-10-12T16:01:52.195</Modified>
+      <Modified>2020-10-13T01:40:58.837</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -106,7 +106,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI5\Lap21\Lap21\bin\x86\Debug\Core\Lap21.exe">
       <PackagePath>Lap21.exe</PackagePath>
-      <Modified>2020-10-12T16:01:52.649</Modified>
+      <Modified>2020-10-13T01:40:59.685</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
