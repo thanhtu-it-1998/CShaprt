@@ -1,0 +1,98 @@
+﻿<Page
+    x:Class="Lap20.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Lap20"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid  Margin="10,10,0,0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Grid.Row="0" Text="CheckBox" VerticalAlignment="Center" />
+        <StackPanel Grid.Column="1" Margin="20,10,0,10" Orientation="Horizontal">
+            <CheckBox x:ConnectionId='9' x:Name="myCheckBox" Content="Agree"                           />
+            <TextBlock x:ConnectionId='10' x:Name="CheckBoxResultTextBlock"/>
+        </StackPanel>
+        <TextBlock Grid.Row="2" 
+                   Text="RidioButton" 
+                   VerticalAlignment="Center"/>
+        <StackPanel Grid.Row="2"
+                    Grid.Column="1"
+                    Orientation="Horizontal"
+                    Margin="20,10,0,10">
+            <RadioButton x:ConnectionId='6' x:Name="YesRadioButton"
+                         Content="Yes"
+                         GroupName="MyGroup"
+                                                      />
+            <RadioButton x:ConnectionId='7' x:Name="NoRadioButton"
+                         Content="No"
+                         GroupName="MyGroup"
+                                                      />
+            <TextBlock x:ConnectionId='8' x:Name="RadioButtonTextBlock"/>
+        </StackPanel>
+        <TextBlock Grid.Row="3"
+                   Text="ComboBox"
+                   VerticalAlignment="Center"/>
+        <StackPanel Orientation="Horizontal"
+                    Grid.Row="3"
+                    Grid.Column="1"
+                    Margin="20,10,0,10">
+            <ComboBox x:ConnectionId='4' SelectedItem="ComboBox_SelectionChanged"                                             >
+                <ComboBoxItem Content="1"/>
+                <ComboBoxItem Content="2"/>
+                <ComboBoxItem Content="3"/>
+                <ComboBoxItem Content="4" IsSelected="True"/>
+            </ComboBox>
+            <TextBlock x:ConnectionId='5' x:Name="ComboBoxResultTexBox"/>
+        </StackPanel>
+        <TextBlock Grid.Row="4" Text="ListBox"
+                   VerticalAlignment="Center"/>
+        <StackPanel Grid.Row="4" Grid.Column="1" Margin="20,10,0,10">
+            <ListBox x:ConnectionId='2' x:Name="MyListBox" SelectionMode="Multiple"                                            >
+                <ListBoxItem Content="First" />
+                <ListBoxItem Content="Second"/>
+                <ListBoxItem Content="Third" />
+            </ListBox>
+            <TextBlock x:ConnectionId='3' x:Name="ListBoxResultTextBox"/>
+        </StackPanel>
+        <TextBlock Grid.Row="5" Text="Image" VerticalAlignment="Center"/>
+        <Image Source="/Assets/6533515463f5ffbcfb41953f4c0e336f.png" 
+               HorizontalAlignment="Left"
+               Width="Auto"
+               Height="250"
+               Grid.Row="5"
+               Grid.Column="1"
+               Stretch="UniformToFill"
+               Margin="20,10,0,10"/>
+        <TextBlock Grid.Row="7"
+                   Text="ToggleSwitch"
+                   VerticalAlignment="Center"/>
+        <StackPanel Grid.Row="7" Grid.Column="7" Margin="20,10,0,10"/>
+        <ToggleSwitch>
+            <ToggleSwitch.OffContent>
+                <TextBlock Text="I'm off right now"/>
+            </ToggleSwitch.OffContent>
+            <ToggleSwitch.OnContent>
+                <TextBlock Text="I'm on!"/>
+            </ToggleSwitch.OnContent>
+        </ToggleSwitch>
+    </Grid>
+</Page>
+
