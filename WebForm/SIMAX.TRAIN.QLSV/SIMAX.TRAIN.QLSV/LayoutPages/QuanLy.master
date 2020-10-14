@@ -1,0 +1,31 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/MasterPages/PublicPage.Master" AutoEventWireup="true" CodeBehind="QuanLy.master.cs" Inherits="SIMAX.TRAIN.QLSV.LayoutPages.QuanLy" %>
+
+<asp:Content ID="ContentQuanLyHead" ContentPlaceHolderID="HeadLayout" runat="server">
+</asp:Content>
+<asp:Content ID="ContentQuanLyMain" ContentPlaceHolderID="MainLayout" runat="server">
+    <div class="container-fluid mt-3">
+        
+        <div class="row">
+            <div class="col-lg-2">
+                <ul class="nav flex-column size-2 ">
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" href="#">Quản Lý Học Sinh</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" href="#">Quản Lý Lịch Học</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" href="#">Quản Lý Dụng Cụ</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link  active" href="#" tabindex="-1" aria-disabled="true">Thông Tin Cá Nhân</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-lg-10">
+                <asp:ContentPlaceHolder ID="QuanLyLayout" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+    </div>
+</asp:Content>

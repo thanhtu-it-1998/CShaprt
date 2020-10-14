@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="PublicPage.master.cs" Inherits="SIMAX.TRAIN.QLSV.MasterPages.PublicPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="/Content/Bootstrap/Css/bootstrap.min.css?v=1" rel="stylesheet" />
+    <link href="/Content/Bootstrap/Fonts/font-awesome.min.css?v=1" rel="stylesheet" />
+    <script src="/Content/Jquery/jquery-3.5.1.min.js?v=1"></script>
+    <script src="/Content/Bootstrap/Js/bootstrap.min.js?v=1"></script>
+    <%--<script src="/Content/Bootstrap/Js/jquery-3.5.1.slim.min.js?v=1"></script>--%>
+    <script src="/Content/Bootstrap/Js/popper.min.js?v=1"></script>
+    <script src="/Content/Plugin/jquery-validate.js?v=1"></script>
+    <script src="/Content/Plugin/jquery-ui-1.12.1.custom/jquery-ui.js?v=1"></script>
+    <link href="/Content/Plugin/jquery-ui-1.12.1.custom/jquery-ui.css?v=1" rel="stylesheet" />
+    <link href="/Css/public.css?v=1" rel="stylesheet" />
+    <script src="/Js/public.js?v=1"></script>
+    <asp:ContentPlaceHolder ID="HeadLayout" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div id="header">
+        <nav class="navbar navbar-expand-lg navbar-light bg-1" style="">
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto  size-1 ">
+                    <li class="nav-item ">
+                        <a class="nav-link text-white hover-text" href="#">Trang Chủ</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-body hover-text " href="#">Quản Lý</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-white hover-text" href="#">Tin Tức</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+    <div id="main">
+        <asp:ContentPlaceHolder ID="MainLayout" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+
+</body>
+</html>
