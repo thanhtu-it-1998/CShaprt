@@ -19,9 +19,10 @@
             <ColumnDefinition Width="Auto"/>
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
+        <Image Source="/Assets/DonutPage.jpeg" Width="150" Margin="20,20,0,0" />
         <TextBlock Grid.Row="1"
                    FontSize="18"
-                   Foreground="Orange"
+                   Foreground="Orange" 
                    Margin="20,20,20,0"/>
         <Slider Grid.Row="1"
                 Grid.Column="1"
@@ -29,7 +30,7 @@
                 Margin="20,20,20,0"/>
         <TextBlock Grid.Row="2"
                    FontSize="18"
-                   Foreground="White"
+                   Foreground="SpringGreen"
                    Margin="20,20,20,0"/>
         <Slider Grid.Row="2"
                 Grid.Column="1"

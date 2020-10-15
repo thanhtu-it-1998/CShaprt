@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\Profile\CSharp\CShaprt\UWP\UI4\News\News\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-10-13T04:55:13.834</Modified>
+      <Modified>2020-10-14T14:54:35.164</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI4\News\News\bin\x86\Debug\News.exe">
       <PackagePath>entrypoint\News.exe</PackagePath>
-      <Modified>2020-10-13T04:55:13.470</Modified>
+      <Modified>2020-10-14T14:54:34.340</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -110,27 +110,27 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI4\News\News\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-10-13T04:55:13.340</Modified>
+      <Modified>2020-10-14T14:54:34.100</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI4\News\News\bin\x86\Debug\Home.xbf">
       <PackagePath>Home.xbf</PackagePath>
-      <Modified>2020-10-13T04:55:13.340</Modified>
+      <Modified>2020-10-14T14:54:34.100</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI4\News\News\bin\x86\Debug\Comment.xbf">
       <PackagePath>Comment.xbf</PackagePath>
-      <Modified>2020-10-13T04:55:13.340</Modified>
+      <Modified>2020-10-14T14:54:34.100</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI4\News\News\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-10-13T04:55:13.340</Modified>
+      <Modified>2020-10-14T14:54:34.100</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI4\News\News\bin\x86\Debug\Store.xbf">
       <PackagePath>Store.xbf</PackagePath>
-      <Modified>2020-10-13T04:55:13.340</Modified>
+      <Modified>2020-10-14T14:54:34.100</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI4\News\News\bin\x86\Debug\World.xbf">
       <PackagePath>World.xbf</PackagePath>
-      <Modified>2020-10-13T04:55:13.340</Modified>
+      <Modified>2020-10-14T14:54:34.100</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -142,7 +142,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI4\News\News\bin\x86\Debug\Core\News.exe">
       <PackagePath>News.exe</PackagePath>
-      <Modified>2020-10-13T04:55:13.831</Modified>
+      <Modified>2020-10-14T14:54:35.142</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

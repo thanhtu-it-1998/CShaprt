@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\Profile\CSharp\CShaprt\UWP\UI5\GoNuts\GoNuts\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-10-13T00:10:58.228</Modified>
+      <Modified>2020-10-14T14:41:07.495</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI5\GoNuts\GoNuts\bin\x86\Debug\GoNuts.exe">
       <PackagePath>entrypoint\GoNuts.exe</PackagePath>
-      <Modified>2020-10-13T00:10:57.497</Modified>
+      <Modified>2020-10-14T14:41:06.973</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -45,6 +45,22 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.18362.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2019-03-18T11:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI5\GoNuts\GoNuts\Assets\CoffeePage.jpeg">
+      <PackagePath>Assets\CoffeePage.jpeg</PackagePath>
+      <Modified>2020-10-14T11:59:45.805</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI5\GoNuts\GoNuts\Assets\DonutPage.jpeg">
+      <PackagePath>Assets\DonutPage.jpeg</PackagePath>
+      <Modified>2020-10-14T11:59:45.807</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI5\GoNuts\GoNuts\Assets\ShedulePage.jpeg">
+      <PackagePath>Assets\ShedulePage.jpeg</PackagePath>
+      <Modified>2020-10-14T11:59:45.809</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI5\GoNuts\GoNuts\Assets\CompletePage.jpeg">
+      <PackagePath>Assets\CompletePage.jpeg</PackagePath>
+      <Modified>2020-10-14T11:59:45.799</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI5\GoNuts\GoNuts\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -86,31 +102,31 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI5\GoNuts\GoNuts\bin\x86\Debug\GoNuts.xr.xml">
       <PackagePath>GoNuts.xr.xml</PackagePath>
-      <Modified>2020-10-13T00:10:57.330</Modified>
+      <Modified>2020-10-14T14:32:21.842</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI5\GoNuts\GoNuts\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-10-13T00:10:57.347</Modified>
+      <Modified>2020-10-14T14:41:06.802</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI5\GoNuts\GoNuts\bin\x86\Debug\CoffeePage.xbf">
       <PackagePath>CoffeePage.xbf</PackagePath>
-      <Modified>2020-10-13T00:10:57.347</Modified>
+      <Modified>2020-10-14T14:41:06.802</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI5\GoNuts\GoNuts\bin\x86\Debug\CompletePage.xbf">
       <PackagePath>CompletePage.xbf</PackagePath>
-      <Modified>2020-10-13T00:10:57.347</Modified>
+      <Modified>2020-10-14T14:41:06.802</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI5\GoNuts\GoNuts\bin\x86\Debug\DonutPage.xbf">
       <PackagePath>DonutPage.xbf</PackagePath>
-      <Modified>2020-10-13T00:10:57.347</Modified>
+      <Modified>2020-10-14T14:41:06.802</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI5\GoNuts\GoNuts\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-10-13T00:10:57.347</Modified>
+      <Modified>2020-10-14T14:41:06.802</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI5\GoNuts\GoNuts\bin\x86\Debug\ShedulePage.xbf">
       <PackagePath>ShedulePage.xbf</PackagePath>
-      <Modified>2020-10-13T00:10:57.347</Modified>
+      <Modified>2020-10-14T14:41:06.802</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -118,11 +134,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI5\GoNuts\GoNuts\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-10-12T23:51:37.631</Modified>
+      <Modified>2020-10-14T12:01:51.761</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI5\GoNuts\GoNuts\bin\x86\Debug\Core\GoNuts.exe">
       <PackagePath>GoNuts.exe</PackagePath>
-      <Modified>2020-10-13T00:10:58.219</Modified>
+      <Modified>2020-10-14T14:41:07.491</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -26,5 +26,40 @@ namespace GoNuts
         {
             this.InitializeComponent();
         }
+
+        private void Roast_Click(object sender, RoutedEventArgs e)
+        {
+            var selected = (MenuFlyoutItem)sender;
+            string _roast = selected.Text;
+            displayResult(_roast);
+        }
+
+        private void Sweetener_Click(object sender, RoutedEventArgs e)
+        {
+            var selected = (MenuFlyoutItem)sender;
+             string _sweetener = selected.Text;
+            displayResult(_sweetener);
+        }
+
+        private void Cream_Click(object sender, RoutedEventArgs e)
+        {
+            var selected = (MenuFlyoutItem)sender;
+            string _cream = selected.Text;
+            displayResult(_cream);
+        }
+         private void displayResult(String _key)
+        {
+            if(_key == "None" || String.IsNullOrEmpty(_key))
+            {
+                ResulTextBlock.Text = "None";
+                return;
+            }
+            ResulTextBlock.Text = _key;
+            if (_key != "None" && !String.IsNullOrEmpty(_key))
+            {
+                ResulTextBlock.Text += "+"+ _key;
+                return;
+            }
+        }
     }
 }

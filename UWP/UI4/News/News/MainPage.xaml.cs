@@ -60,8 +60,8 @@ namespace News
             if (Comment.IsSelected)
             {
                 BackButton.Visibility = Visibility.Collapsed;
-                MyFrame.Navigate(typeof(Store));
-                TitleTextBlock.Text = "Store";
+                MyFrame.Navigate(typeof(Comment));
+                TitleTextBlock.Text = "Comment";
             }
             else if (Store.IsSelected)
             {

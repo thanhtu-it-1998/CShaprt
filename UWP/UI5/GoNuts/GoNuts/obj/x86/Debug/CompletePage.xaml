@@ -8,8 +8,29 @@
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
-    <Grid>
+    <Grid Background="{ ThemeResource AppBarBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
 
+        <Image Source="/Assets/Square44x44Logo.targetsize-24_altform-unplated.png" 
+               Style="{StaticResource WhileLogoStyle}"/>
+        <Image Source="/Assets/StoreLogo.png" 
+               Grid.Row="1" 
+               Width="300"
+               HorizontalAlignment="Center"
+               VerticalAlignment="Center"/>
+        <StackPanel Grid.Row="1"
+                    VerticalAlignment="Center"
+                    HorizontalAlignment="Center">
+            <TextBlock Text="Order"
+                       FontSize="36"
+                       HorizontalAlignment="Center"/>
+            <TextBlock Text="96"
+                       FontSize="64"
+                       VerticalAlignment="Center"/>
+        </StackPanel>
     </Grid>
 </Page>
 
