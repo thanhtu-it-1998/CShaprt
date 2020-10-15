@@ -26,6 +26,9 @@
             <RowDefinition Height="100"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
+   
+    <Grid Grid.Row="0">
+       
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*"/>
             <ColumnDefinition Width="*"/>
@@ -33,7 +36,7 @@
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
 
-        <Button Grid.Row="0" 
+        <Button Grid.Column="0" 
                 Name="DonutButton"
                 Click="DonutButton_Click"
                 Style="{StaticResource NavigationButtonStyle}" >
@@ -43,10 +46,10 @@
                 <TextBlock Text="Donut" Foreground="White"/>
             </StackPanel>
         </Button>
-        <Button Grid.Row="0"
-                Name="CoffeeButton"
+
+        <Button Grid.Column="1" 
+            Name="CoffeeButton"
                 Click="CoffeeButton_Click" 
-                Grid.Column="1" 
                 Style="{StaticResource NavigationButtonStyle}" >
             <StackPanel Orientation="Horizontal">
                 <Image Source="/Assets/Square150x150Logo.scale-200.png" 
@@ -56,10 +59,9 @@
             </StackPanel>
         </Button>
 
-        <Button Grid.Row="0"
+        <Button Grid.Column="2"
                 Name="ScheduleButton"
                 Click="ScheduleButton_Click"
-                Grid.Column="2"
                 Style="{StaticResource NavigationButtonStyle}" >
             <StackPanel Orientation="Horizontal">
                 <Image Source="/Assets/Square150x150Logo.scale-200.png" 
@@ -69,10 +71,9 @@
             </StackPanel>
         </Button>
 
-        <Button Grid.Row="0"
+        <Button  Grid.Column="3"
                 Name="CompleteButton"
                 Click="CompleteButton_Click"
-                Grid.Column="4"
                 Style="{StaticResource NavigationButtonStyle}" >
             <StackPanel Orientation="Horizontal">
                 <Image Source="/Assets/Square150x150Logo.scale-200.png" 
@@ -81,19 +82,18 @@
                             Foreground="White"/>
             </StackPanel>
         </Button>
-        <SplitView>
-            <SplitView.Pane>
-                <Image Source="/Assets/CoffeePage.jpeg"
-                   Stretch="UniformToFill" 
-                       Grid.Row="1"
-                   Grid.Column="1"/>
-            </SplitView.Pane>
-            <SplitView.Content>
-                <Frame x:Name="MyFrame">
+      
+    </Grid>
+    <Grid Grid.Row="1">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Frame x:Name="MyFrame">
 
-                </Frame>
-            </SplitView.Content>
-        </SplitView>
+        </Frame>
+        <Image Source="/Assets/CompletePage.jpeg" Grid.Column="1"/>
 
+    </Grid>
     </Grid>
 </Page>
