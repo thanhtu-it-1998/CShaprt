@@ -44,7 +44,7 @@
 
         </TextBlock>
     </Grid>-->
-    <Grid x:Name="grLayout" Background="{ThemeResource AppBarItemBackgroundThemeBrush}">
+    <!--<Grid x:Name="grLayout" Background="{ThemeResource AppBarItemBackgroundThemeBrush}">
         <VisualStateManager.VisualStateGroups>
             <VisualStateGroup x:Name="VisualStateGroup">
                 <VisualState x:Name="Wide">
@@ -118,5 +118,8 @@
                 </StackPanel>
             </Grid>
         </ScrollViewer>
+    </Grid>-->
+    <Grid>
+        <Grid.ColumnDefinitions>
     </Grid>
 </Page>
