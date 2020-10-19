@@ -1,0 +1,12 @@
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\FileStreamExample\FileStreamExample\bin\Debug\netcoreapp3.1\FileStreamExample.exe
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\FileStreamExample\FileStreamExample\bin\Debug\netcoreapp3.1\FileStreamExample.deps.json
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\FileStreamExample\FileStreamExample\bin\Debug\netcoreapp3.1\FileStreamExample.runtimeconfig.json
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\FileStreamExample\FileStreamExample\bin\Debug\netcoreapp3.1\FileStreamExample.runtimeconfig.dev.json
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\FileStreamExample\FileStreamExample\bin\Debug\netcoreapp3.1\FileStreamExample.dll
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\FileStreamExample\FileStreamExample\bin\Debug\netcoreapp3.1\FileStreamExample.pdb
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\FileStreamExample\FileStreamExample\obj\Debug\netcoreapp3.1\FileStreamExample.AssemblyInfoInputs.cache
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\FileStreamExample\FileStreamExample\obj\Debug\netcoreapp3.1\FileStreamExample.AssemblyInfo.cs
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\FileStreamExample\FileStreamExample\obj\Debug\netcoreapp3.1\FileStreamExample.csproj.CoreCompileInputs.cache
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\FileStreamExample\FileStreamExample\obj\Debug\netcoreapp3.1\FileStreamExample.dll
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\FileStreamExample\FileStreamExample\obj\Debug\netcoreapp3.1\FileStreamExample.pdb
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\FileStreamExample\FileStreamExample\obj\Debug\netcoreapp3.1\FileStreamExample.genruntimeconfig.cache

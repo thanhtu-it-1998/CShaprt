@@ -1,0 +1,13 @@
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\BinaryWR\BinaryWR\bin\Debug\netcoreapp3.1\BinaryWR.exe
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\BinaryWR\BinaryWR\bin\Debug\netcoreapp3.1\BinaryWR.deps.json
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\BinaryWR\BinaryWR\bin\Debug\netcoreapp3.1\BinaryWR.runtimeconfig.json
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\BinaryWR\BinaryWR\bin\Debug\netcoreapp3.1\BinaryWR.runtimeconfig.dev.json
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\BinaryWR\BinaryWR\bin\Debug\netcoreapp3.1\BinaryWR.dll
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\BinaryWR\BinaryWR\bin\Debug\netcoreapp3.1\BinaryWR.pdb
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\BinaryWR\BinaryWR\obj\Debug\netcoreapp3.1\BinaryWR.csprojAssemblyReference.cache
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\BinaryWR\BinaryWR\obj\Debug\netcoreapp3.1\BinaryWR.AssemblyInfoInputs.cache
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\BinaryWR\BinaryWR\obj\Debug\netcoreapp3.1\BinaryWR.AssemblyInfo.cs
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\BinaryWR\BinaryWR\obj\Debug\netcoreapp3.1\BinaryWR.csproj.CoreCompileInputs.cache
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\BinaryWR\BinaryWR\obj\Debug\netcoreapp3.1\BinaryWR.dll
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\BinaryWR\BinaryWR\obj\Debug\netcoreapp3.1\BinaryWR.pdb
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\BinaryWR\BinaryWR\obj\Debug\netcoreapp3.1\BinaryWR.genruntimeconfig.cache

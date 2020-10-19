@@ -1,0 +1,12 @@
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\DirectoryAndFile\DirectoryAndFile\obj\Debug\netcoreapp3.1\DirectoryAndFile.AssemblyInfoInputs.cache
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\DirectoryAndFile\DirectoryAndFile\obj\Debug\netcoreapp3.1\DirectoryAndFile.AssemblyInfo.cs
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\DirectoryAndFile\DirectoryAndFile\obj\Debug\netcoreapp3.1\DirectoryAndFile.csproj.CoreCompileInputs.cache
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\DirectoryAndFile\DirectoryAndFile\bin\Debug\netcoreapp3.1\DirectoryAndFile.exe
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\DirectoryAndFile\DirectoryAndFile\bin\Debug\netcoreapp3.1\DirectoryAndFile.deps.json
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\DirectoryAndFile\DirectoryAndFile\bin\Debug\netcoreapp3.1\DirectoryAndFile.runtimeconfig.json
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\DirectoryAndFile\DirectoryAndFile\bin\Debug\netcoreapp3.1\DirectoryAndFile.runtimeconfig.dev.json
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\DirectoryAndFile\DirectoryAndFile\bin\Debug\netcoreapp3.1\DirectoryAndFile.dll
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\DirectoryAndFile\DirectoryAndFile\bin\Debug\netcoreapp3.1\DirectoryAndFile.pdb
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\DirectoryAndFile\DirectoryAndFile\obj\Debug\netcoreapp3.1\DirectoryAndFile.dll
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\DirectoryAndFile\DirectoryAndFile\obj\Debug\netcoreapp3.1\DirectoryAndFile.pdb
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\DirectoryAndFile\DirectoryAndFile\obj\Debug\netcoreapp3.1\DirectoryAndFile.genruntimeconfig.cache

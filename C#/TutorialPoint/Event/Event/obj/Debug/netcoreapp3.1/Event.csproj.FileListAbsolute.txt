@@ -1,0 +1,13 @@
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\Event\Event\obj\Debug\netcoreapp3.1\Event.csprojAssemblyReference.cache
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\Event\Event\obj\Debug\netcoreapp3.1\Event.AssemblyInfoInputs.cache
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\Event\Event\obj\Debug\netcoreapp3.1\Event.AssemblyInfo.cs
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\Event\Event\obj\Debug\netcoreapp3.1\Event.csproj.CoreCompileInputs.cache
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\Event\Event\bin\Debug\netcoreapp3.1\Event.exe
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\Event\Event\bin\Debug\netcoreapp3.1\Event.deps.json
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\Event\Event\bin\Debug\netcoreapp3.1\Event.runtimeconfig.json
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\Event\Event\bin\Debug\netcoreapp3.1\Event.runtimeconfig.dev.json
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\Event\Event\bin\Debug\netcoreapp3.1\Event.dll
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\Event\Event\bin\Debug\netcoreapp3.1\Event.pdb
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\Event\Event\obj\Debug\netcoreapp3.1\Event.dll
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\Event\Event\obj\Debug\netcoreapp3.1\Event.pdb
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\Event\Event\obj\Debug\netcoreapp3.1\Event.genruntimeconfig.cache

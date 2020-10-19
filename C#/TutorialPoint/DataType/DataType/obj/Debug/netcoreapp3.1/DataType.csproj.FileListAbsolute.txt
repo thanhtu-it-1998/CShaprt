@@ -1,0 +1,13 @@
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\DataType\DataType\obj\Debug\netcoreapp3.1\DataType.AssemblyInfoInputs.cache
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\DataType\DataType\obj\Debug\netcoreapp3.1\DataType.AssemblyInfo.cs
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\DataType\DataType\obj\Debug\netcoreapp3.1\DataType.csproj.CoreCompileInputs.cache
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\DataType\DataType\bin\Debug\netcoreapp3.1\DataType.exe
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\DataType\DataType\bin\Debug\netcoreapp3.1\DataType.deps.json
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\DataType\DataType\bin\Debug\netcoreapp3.1\DataType.runtimeconfig.json
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\DataType\DataType\bin\Debug\netcoreapp3.1\DataType.runtimeconfig.dev.json
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\DataType\DataType\bin\Debug\netcoreapp3.1\DataType.dll
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\DataType\DataType\bin\Debug\netcoreapp3.1\DataType.pdb
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\DataType\DataType\obj\Debug\netcoreapp3.1\DataType.dll
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\DataType\DataType\obj\Debug\netcoreapp3.1\DataType.pdb
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\DataType\DataType\obj\Debug\netcoreapp3.1\DataType.genruntimeconfig.cache
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\DataType\DataType\obj\Debug\netcoreapp3.1\DataType.csprojAssemblyReference.cache

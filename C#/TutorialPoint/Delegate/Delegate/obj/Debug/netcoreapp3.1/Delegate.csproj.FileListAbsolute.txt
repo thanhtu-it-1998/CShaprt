@@ -1,0 +1,13 @@
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.exe
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.deps.json
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.runtimeconfig.json
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.runtimeconfig.dev.json
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.dll
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.pdb
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.csprojAssemblyReference.cache
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfoInputs.cache
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfo.cs
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.csproj.CoreCompileInputs.cache
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.dll
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.pdb
+D:\Profile\CSharp\CShaprt\C#\TutorialPoint\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.genruntimeconfig.cache
