@@ -1,0 +1,12 @@
+D:\Profile\CSharp\CShaprt\C#\NullableType\NullableType\bin\Debug\netcoreapp3.1\NullableType.exe
+D:\Profile\CSharp\CShaprt\C#\NullableType\NullableType\bin\Debug\netcoreapp3.1\NullableType.deps.json
+D:\Profile\CSharp\CShaprt\C#\NullableType\NullableType\bin\Debug\netcoreapp3.1\NullableType.runtimeconfig.json
+D:\Profile\CSharp\CShaprt\C#\NullableType\NullableType\bin\Debug\netcoreapp3.1\NullableType.runtimeconfig.dev.json
+D:\Profile\CSharp\CShaprt\C#\NullableType\NullableType\bin\Debug\netcoreapp3.1\NullableType.dll
+D:\Profile\CSharp\CShaprt\C#\NullableType\NullableType\bin\Debug\netcoreapp3.1\NullableType.pdb
+D:\Profile\CSharp\CShaprt\C#\NullableType\NullableType\obj\Debug\netcoreapp3.1\NullableType.AssemblyInfoInputs.cache
+D:\Profile\CSharp\CShaprt\C#\NullableType\NullableType\obj\Debug\netcoreapp3.1\NullableType.AssemblyInfo.cs
+D:\Profile\CSharp\CShaprt\C#\NullableType\NullableType\obj\Debug\netcoreapp3.1\NullableType.csproj.CoreCompileInputs.cache
+D:\Profile\CSharp\CShaprt\C#\NullableType\NullableType\obj\Debug\netcoreapp3.1\NullableType.dll
+D:\Profile\CSharp\CShaprt\C#\NullableType\NullableType\obj\Debug\netcoreapp3.1\NullableType.pdb
+D:\Profile\CSharp\CShaprt\C#\NullableType\NullableType\obj\Debug\netcoreapp3.1\NullableType.genruntimeconfig.cache

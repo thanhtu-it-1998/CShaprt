@@ -1,0 +1,12 @@
+D:\Profile\CSharp\CShaprt\C#\EnumType\EnumType\bin\Debug\netcoreapp3.1\EnumType.exe
+D:\Profile\CSharp\CShaprt\C#\EnumType\EnumType\bin\Debug\netcoreapp3.1\EnumType.deps.json
+D:\Profile\CSharp\CShaprt\C#\EnumType\EnumType\bin\Debug\netcoreapp3.1\EnumType.runtimeconfig.json
+D:\Profile\CSharp\CShaprt\C#\EnumType\EnumType\bin\Debug\netcoreapp3.1\EnumType.runtimeconfig.dev.json
+D:\Profile\CSharp\CShaprt\C#\EnumType\EnumType\bin\Debug\netcoreapp3.1\EnumType.dll
+D:\Profile\CSharp\CShaprt\C#\EnumType\EnumType\bin\Debug\netcoreapp3.1\EnumType.pdb
+D:\Profile\CSharp\CShaprt\C#\EnumType\EnumType\obj\Debug\netcoreapp3.1\EnumType.AssemblyInfoInputs.cache
+D:\Profile\CSharp\CShaprt\C#\EnumType\EnumType\obj\Debug\netcoreapp3.1\EnumType.AssemblyInfo.cs
+D:\Profile\CSharp\CShaprt\C#\EnumType\EnumType\obj\Debug\netcoreapp3.1\EnumType.csproj.CoreCompileInputs.cache
+D:\Profile\CSharp\CShaprt\C#\EnumType\EnumType\obj\Debug\netcoreapp3.1\EnumType.dll
+D:\Profile\CSharp\CShaprt\C#\EnumType\EnumType\obj\Debug\netcoreapp3.1\EnumType.pdb
+D:\Profile\CSharp\CShaprt\C#\EnumType\EnumType\obj\Debug\netcoreapp3.1\EnumType.genruntimeconfig.cache

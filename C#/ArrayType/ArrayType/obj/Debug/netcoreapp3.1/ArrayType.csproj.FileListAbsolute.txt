@@ -1,0 +1,13 @@
+D:\Profile\CSharp\CShaprt\C#\ArrayType\ArrayType\bin\Debug\netcoreapp3.1\ArrayType.exe
+D:\Profile\CSharp\CShaprt\C#\ArrayType\ArrayType\bin\Debug\netcoreapp3.1\ArrayType.deps.json
+D:\Profile\CSharp\CShaprt\C#\ArrayType\ArrayType\bin\Debug\netcoreapp3.1\ArrayType.runtimeconfig.json
+D:\Profile\CSharp\CShaprt\C#\ArrayType\ArrayType\bin\Debug\netcoreapp3.1\ArrayType.runtimeconfig.dev.json
+D:\Profile\CSharp\CShaprt\C#\ArrayType\ArrayType\bin\Debug\netcoreapp3.1\ArrayType.dll
+D:\Profile\CSharp\CShaprt\C#\ArrayType\ArrayType\bin\Debug\netcoreapp3.1\ArrayType.pdb
+D:\Profile\CSharp\CShaprt\C#\ArrayType\ArrayType\obj\Debug\netcoreapp3.1\ArrayType.csprojAssemblyReference.cache
+D:\Profile\CSharp\CShaprt\C#\ArrayType\ArrayType\obj\Debug\netcoreapp3.1\ArrayType.AssemblyInfoInputs.cache
+D:\Profile\CSharp\CShaprt\C#\ArrayType\ArrayType\obj\Debug\netcoreapp3.1\ArrayType.AssemblyInfo.cs
+D:\Profile\CSharp\CShaprt\C#\ArrayType\ArrayType\obj\Debug\netcoreapp3.1\ArrayType.csproj.CoreCompileInputs.cache
+D:\Profile\CSharp\CShaprt\C#\ArrayType\ArrayType\obj\Debug\netcoreapp3.1\ArrayType.dll
+D:\Profile\CSharp\CShaprt\C#\ArrayType\ArrayType\obj\Debug\netcoreapp3.1\ArrayType.pdb
+D:\Profile\CSharp\CShaprt\C#\ArrayType\ArrayType\obj\Debug\netcoreapp3.1\ArrayType.genruntimeconfig.cache

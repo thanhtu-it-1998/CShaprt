@@ -1,0 +1,13 @@
+D:\Profile\CSharp\CShaprt\C#\StringType\StringType\bin\Debug\netcoreapp3.1\StringType.exe
+D:\Profile\CSharp\CShaprt\C#\StringType\StringType\bin\Debug\netcoreapp3.1\StringType.deps.json
+D:\Profile\CSharp\CShaprt\C#\StringType\StringType\bin\Debug\netcoreapp3.1\StringType.runtimeconfig.json
+D:\Profile\CSharp\CShaprt\C#\StringType\StringType\bin\Debug\netcoreapp3.1\StringType.runtimeconfig.dev.json
+D:\Profile\CSharp\CShaprt\C#\StringType\StringType\bin\Debug\netcoreapp3.1\StringType.dll
+D:\Profile\CSharp\CShaprt\C#\StringType\StringType\bin\Debug\netcoreapp3.1\StringType.pdb
+D:\Profile\CSharp\CShaprt\C#\StringType\StringType\obj\Debug\netcoreapp3.1\StringType.AssemblyInfoInputs.cache
+D:\Profile\CSharp\CShaprt\C#\StringType\StringType\obj\Debug\netcoreapp3.1\StringType.AssemblyInfo.cs
+D:\Profile\CSharp\CShaprt\C#\StringType\StringType\obj\Debug\netcoreapp3.1\StringType.csproj.CoreCompileInputs.cache
+D:\Profile\CSharp\CShaprt\C#\StringType\StringType\obj\Debug\netcoreapp3.1\StringType.dll
+D:\Profile\CSharp\CShaprt\C#\StringType\StringType\obj\Debug\netcoreapp3.1\StringType.pdb
+D:\Profile\CSharp\CShaprt\C#\StringType\StringType\obj\Debug\netcoreapp3.1\StringType.genruntimeconfig.cache
+D:\Profile\CSharp\CShaprt\C#\StringType\StringType\obj\Debug\netcoreapp3.1\StringType.csprojAssemblyReference.cache

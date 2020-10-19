@@ -1,0 +1,12 @@
+D:\Profile\CSharp\CShaprt\C#\ClassLession\ClassLession\bin\Debug\netcoreapp3.1\ClassLession.exe
+D:\Profile\CSharp\CShaprt\C#\ClassLession\ClassLession\bin\Debug\netcoreapp3.1\ClassLession.deps.json
+D:\Profile\CSharp\CShaprt\C#\ClassLession\ClassLession\bin\Debug\netcoreapp3.1\ClassLession.runtimeconfig.json
+D:\Profile\CSharp\CShaprt\C#\ClassLession\ClassLession\bin\Debug\netcoreapp3.1\ClassLession.runtimeconfig.dev.json
+D:\Profile\CSharp\CShaprt\C#\ClassLession\ClassLession\bin\Debug\netcoreapp3.1\ClassLession.dll
+D:\Profile\CSharp\CShaprt\C#\ClassLession\ClassLession\bin\Debug\netcoreapp3.1\ClassLession.pdb
+D:\Profile\CSharp\CShaprt\C#\ClassLession\ClassLession\obj\Debug\netcoreapp3.1\ClassLession.AssemblyInfoInputs.cache
+D:\Profile\CSharp\CShaprt\C#\ClassLession\ClassLession\obj\Debug\netcoreapp3.1\ClassLession.AssemblyInfo.cs
+D:\Profile\CSharp\CShaprt\C#\ClassLession\ClassLession\obj\Debug\netcoreapp3.1\ClassLession.csproj.CoreCompileInputs.cache
+D:\Profile\CSharp\CShaprt\C#\ClassLession\ClassLession\obj\Debug\netcoreapp3.1\ClassLession.dll
+D:\Profile\CSharp\CShaprt\C#\ClassLession\ClassLession\obj\Debug\netcoreapp3.1\ClassLession.pdb
+D:\Profile\CSharp\CShaprt\C#\ClassLession\ClassLession\obj\Debug\netcoreapp3.1\ClassLession.genruntimeconfig.cache
