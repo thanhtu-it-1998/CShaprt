@@ -30,14 +30,14 @@ namespace Lap44.Model
         private static List<NewsItem> getNewsItems()
         {
             var items = new List<NewsItem>();
-            items.Add(new NewsItem() { ID = 1, Category = "Financial", Headline = "Lorem Impsum", Subhead = "doro sit amet", DateLine = "Nunc tristique nec", Image = "/Assets/StoreLogo.png" });
-            items.Add(new NewsItem() { ID = 2, Category = "Financial", Headline = "Lorem Impsum", Subhead = "doro sit amet", DateLine = "Nunc tristique nec", Image = "/Assets/StoreLogo.png" });
-            items.Add(new NewsItem() { ID = 3, Category = "Financial", Headline = "Lorem Impsum", Subhead = "doro sit amet", DateLine = "Nunc tristique nec", Image = "/Assets/StoreLogo.png" });
-            items.Add(new NewsItem() { ID = 4, Category = "Financial", Headline = "Lorem Impsum", Subhead = "doro sit amet", DateLine = "Nunc tristique nec", Image = "/Assets/StoreLogo.png" });
-            items.Add(new NewsItem() { ID = 5, Category = "Financial", Headline = "Lorem Impsum", Subhead = "doro sit amet", DateLine = "Nunc tristique nec", Image = "/Assets/StoreLogo.png" });
-            items.Add(new NewsItem() { ID = 6, Category = "Food", Headline = "Lorem Impsum", Subhead = "doro sit amet", DateLine = "Nunc tristique nec", Image = "/Assets/StoreLogo.png" });
-            items.Add(new NewsItem() { ID = 7, Category = "Food", Headline = "Lorem Impsum", Subhead = "doro sit amet", DateLine = "Nunc tristique nec", Image = "/Assets/StoreLogo.png" });
-            items.Add(new NewsItem() { ID = 8, Category = "Food", Headline = "Lorem Impsum", Subhead = "doro sit amet", DateLine = "Nunc tristique nec", Image = "/Assets/StoreLogo.png" });
+            items.Add(new NewsItem() { ID = 1, Category = "Financial", Headline = "Lorem Impsum", Subhead = "doro sit amet", DateLine = "Nunc tristique nec", Image = "/Assets/Financial1.jpeg" });
+            items.Add(new NewsItem() { ID = 2, Category = "Financial", Headline = "Lorem Impsum", Subhead = "doro sit amet", DateLine = "Nunc tristique nec", Image = "/Assets/Financial2.jpeg" });
+            items.Add(new NewsItem() { ID = 3, Category = "Financial", Headline = "Lorem Impsum", Subhead = "doro sit amet", DateLine = "Nunc tristique nec", Image = "/Assets/Financial3.jpeg" });
+            items.Add(new NewsItem() { ID = 4, Category = "Financial", Headline = "Lorem Impsum", Subhead = "doro sit amet", DateLine = "Nunc tristique nec", Image = "/Assets/Financial4.jpeg" });
+            items.Add(new NewsItem() { ID = 5, Category = "Financial", Headline = "Lorem Impsum", Subhead = "doro sit amet", DateLine = "Nunc tristique nec", Image = "/Assets/Financial5.jpeg" });
+            items.Add(new NewsItem() { ID = 6, Category = "Food", Headline = "Lorem Impsum", Subhead = "doro sit amet", DateLine = "Nunc tristique nec", Image = "/Assets/Food1.jpeg" });
+            items.Add(new NewsItem() { ID = 7, Category = "Food", Headline = "Lorem Impsum", Subhead = "doro sit amet", DateLine = "Nunc tristique nec", Image = "/Assets/Food2.jpeg" });
+            items.Add(new NewsItem() { ID = 8, Category = "Food", Headline = "Lorem Impsum", Subhead = "doro sit amet", DateLine = "Nunc tristique nec", Image = "/Assets/Food3.jpeg" });
             return items;
         }
     }

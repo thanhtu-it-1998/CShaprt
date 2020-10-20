@@ -31,12 +31,16 @@ namespace Lap41
 
             this.InitializeComponent();
             Icons = new List<Icon>();
-            Icons.Add(new Icon { IconPath = "/assets/).jfif" });
-            Icons.Add(new Icon { IconPath = "/assets/1.jfif" });
-            Icons.Add(new Icon { IconPath = "/assets/2.jfif" });
+            
+            Icons.Add(new Icon { IconPath = "/assets/Face1.png" });
+            Icons.Add(new Icon { IconPath = "/assets/Face2.png" });
+            Icons.Add(new Icon { IconPath = "/assets/Face3.png" });
+            Icons.Add(new Icon { IconPath = "/assets/Face4.png" });
+            Icons.Add(new Icon { IconPath = "/assets/Face5.png" });
+            Icons.Add(new Icon { IconPath = "/assets/Face6.png" });
 
             Contacts = new ObservableCollection<Contact>();
-            Contacts.Add(new Contact { FirstName = "Thanh Tu", LastName = "Huy", AvatarPath = "/Assets/StoreLogo.png" });
+            Contacts.Add(new Contact { FirstName = "Thanh Tu", LastName = "Truong", AvatarPath = "/Assets/Face1.png" });
         }
 
         private void NewContactButton_Click(object sender, RoutedEventArgs e)

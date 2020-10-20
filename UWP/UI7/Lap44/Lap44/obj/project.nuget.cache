@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lqaQHcRE2qguyGO77hJWes8070/hkc5zKGADzs+izSTMVCUt38Bpol5YVAJsnnliTWs5y5i/dgoQ7LdfaGee+Q==",
+  "dgSpecHash": "VV2sKJoihoPMpwlWaAh0lAZPCOKURuXEm1iKW94KTU/n6sFLGS/9km/fFwloK7vtA/bbIwevnymOQ2EEe28EAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Truong Thanh Tu\\source\\repos\\Lap44\\Lap44\\Lap44.csproj",
+  "projectFilePath": "D:\\Profile\\CSharp\\CShaprt\\UWP\\UI7\\Lap44\\Lap44\\Lap44.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.native.compiler\\2.2.8-rel-28605-00\\microsoft.net.native.compiler.2.2.8-rel-28605-00.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.uwpcoreruntimesdk\\2.2.10\\microsoft.net.uwpcoreruntimesdk.2.2.10.nupkg.sha512",

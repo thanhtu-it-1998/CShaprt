@@ -34,32 +34,23 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.18362.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\Assets\2.jfif">
-      <PackagePath>Assets\2.jfif</PackagePath>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\Assets\Face1.png">
+      <PackagePath>Assets\Face1.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\Assets\%29.jfif">
-      <PackagePath>Assets\%29.jfif</PackagePath>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\Assets\Face2.png">
+      <PackagePath>Assets\Face2.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\Assets\download %283%29.jfif">
-      <PackagePath>Assets\download %283%29.jfif</PackagePath>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\Assets\Face3.png">
+      <PackagePath>Assets\Face3.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\Assets\download %284%29.jfif">
-      <PackagePath>Assets\download %284%29.jfif</PackagePath>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\Assets\Face4.png">
+      <PackagePath>Assets\Face4.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\Assets\download.jfif">
-      <PackagePath>Assets\download.jfif</PackagePath>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\Assets\Face5.png">
+      <PackagePath>Assets\Face5.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\Assets\images %281%29.jfif">
-      <PackagePath>Assets\images %281%29.jfif</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\Assets\images %282%29.jfif">
-      <PackagePath>Assets\images %282%29.jfif</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\Assets\1.jfif">
-      <PackagePath>Assets\1.jfif</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\Properties\Default.rd.xml">
-      <PackagePath>Properties\Default.rd.xml</PackagePath>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\Assets\Face6.png">
+      <PackagePath>Assets\Face6.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
@@ -87,6 +78,9 @@
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\bin\x86\Debug\Lap41.xr.xml">
       <PackagePath>Lap41.xr.xml</PackagePath>

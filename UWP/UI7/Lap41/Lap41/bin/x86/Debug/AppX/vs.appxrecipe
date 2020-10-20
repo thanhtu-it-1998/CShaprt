@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-10-19T17:06:50.981</Modified>
+      <Modified>2020-10-20T01:36:04.476</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\bin\x86\Debug\Lap41.exe">
       <PackagePath>entrypoint\Lap41.exe</PackagePath>
-      <Modified>2020-10-19T17:06:50.574</Modified>
+      <Modified>2020-10-20T01:36:04.150</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -46,41 +46,29 @@
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2019-03-18T11:36:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\Assets\2.jfif">
-      <PackagePath>Assets\2.jfif</PackagePath>
-      <Modified>2020-10-19T17:03:26.654</Modified>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\Assets\Face1.png">
+      <PackagePath>Assets\Face1.png</PackagePath>
+      <Modified>2020-10-20T01:34:48.596</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\Assets\%29.jfif">
-      <PackagePath>Assets\%29.jfif</PackagePath>
-      <Modified>2020-10-19T17:03:26.655</Modified>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\Assets\Face2.png">
+      <PackagePath>Assets\Face2.png</PackagePath>
+      <Modified>2020-10-20T01:34:48.597</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\Assets\download %283%29.jfif">
-      <PackagePath>Assets\download %283%29.jfif</PackagePath>
-      <Modified>2020-10-19T17:03:26.657</Modified>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\Assets\Face3.png">
+      <PackagePath>Assets\Face3.png</PackagePath>
+      <Modified>2020-10-20T01:34:48.589</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\Assets\download %284%29.jfif">
-      <PackagePath>Assets\download %284%29.jfif</PackagePath>
-      <Modified>2020-10-19T17:03:26.659</Modified>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\Assets\Face4.png">
+      <PackagePath>Assets\Face4.png</PackagePath>
+      <Modified>2020-10-20T01:34:48.590</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\Assets\download.jfif">
-      <PackagePath>Assets\download.jfif</PackagePath>
-      <Modified>2020-10-19T17:03:26.660</Modified>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\Assets\Face5.png">
+      <PackagePath>Assets\Face5.png</PackagePath>
+      <Modified>2020-10-20T01:34:48.592</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\Assets\images %281%29.jfif">
-      <PackagePath>Assets\images %281%29.jfif</PackagePath>
-      <Modified>2020-10-19T17:03:26.661</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\Assets\images %282%29.jfif">
-      <PackagePath>Assets\images %282%29.jfif</PackagePath>
-      <Modified>2020-10-19T17:03:26.663</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\Assets\1.jfif">
-      <PackagePath>Assets\1.jfif</PackagePath>
-      <Modified>2020-10-19T17:03:26.664</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\Properties\Default.rd.xml">
-      <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2020-10-16T05:12:50.407</Modified>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\Assets\Face6.png">
+      <PackagePath>Assets\Face6.png</PackagePath>
+      <Modified>2020-10-20T01:34:48.593</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
@@ -116,21 +104,25 @@
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-10-01T02:01:09.726</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2020-10-16T05:12:50.407</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\bin\x86\Debug\Lap41.xr.xml">
       <PackagePath>Lap41.xr.xml</PackagePath>
       <Modified>2020-10-19T17:00:17.827</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-10-19T17:06:50.466</Modified>
+      <Modified>2020-10-20T01:36:04.033</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\bin\x86\Debug\ContactTemplate.xbf">
       <PackagePath>ContactTemplate.xbf</PackagePath>
-      <Modified>2020-10-19T17:06:50.466</Modified>
+      <Modified>2020-10-20T01:36:04.033</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-10-19T17:06:50.466</Modified>
+      <Modified>2020-10-20T01:36:04.033</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -138,11 +130,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-10-19T17:06:50.647</Modified>
+      <Modified>2020-10-20T01:35:38.276</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\bin\x86\Debug\Core\Lap41.exe">
       <PackagePath>Lap41.exe</PackagePath>
-      <Modified>2020-10-19T17:06:50.977</Modified>
+      <Modified>2020-10-20T01:36:04.473</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

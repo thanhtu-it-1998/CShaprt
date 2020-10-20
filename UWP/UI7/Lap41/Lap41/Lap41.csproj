@@ -135,14 +135,12 @@
     </AppxManifest>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Assets\2.jfif" />
-    <Content Include="Assets\%29.jfif" />
-    <Content Include="Assets\download %283%29.jfif" />
-    <Content Include="Assets\download %284%29.jfif" />
-    <Content Include="Assets\download.jfif" />
-    <Content Include="Assets\images %281%29.jfif" />
-    <Content Include="Assets\images %282%29.jfif" />
-    <Content Include="Assets\1.jfif" />
+    <Content Include="Assets\Face1.png" />
+    <Content Include="Assets\Face2.png" />
+    <Content Include="Assets\Face3.png" />
+    <Content Include="Assets\Face4.png" />
+    <Content Include="Assets\Face5.png" />
+    <Content Include="Assets\Face6.png" />
     <Content Include="Properties\Default.rd.xml" />
     <Content Include="Assets\LockScreenLogo.scale-200.png" />
     <Content Include="Assets\SplashScreen.scale-200.png" />

@@ -27,20 +27,20 @@
                                                  />
             <TextBlock x:ConnectionId='10' RelativePanel.RightOf="HumburgerButton"
                        Name="TittleTextBox"
-                       FontSize="18"
+                       FontSize="25"
                        FontWeight="Bold"
-                       Margin="20,0,0,0"/>
+                       Margin="20,10,0,0"/>
             <AutoSuggestBox x:ConnectionId='11' Name="AutoSuggesBox"
                             QueryIcon="Find"
                             PlaceholderText="Search"
                             RelativePanel.AlignRightWithPanel="True"
                             Width="200"
-                            Margin="0,0,10,0"/>
+                            Margin="0,10,10,0"/>
         </RelativePanel>
         <SplitView x:ConnectionId='2' x:Name="MySplitView"
                    Grid.Row="1"
                    DisplayMode="CompactOverlay"
-                   OpenPaneLength="150"
+                   OpenPaneLength="250"
                    CompactPaneLength="45">
             <SplitView.Pane>
                 <ListBox x:ConnectionId='3' SelectionMode="Single"
@@ -90,4 +90,5 @@ Margin="0,10,0,0"/>
         </SplitView>
     </Grid>
 </Page>
+
 

@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>5c8e9b97-4631-404a-87e5-4d71f4e1ea3c</PackageIdentityName>
     <PackageIdentityPublisher>CN=Truong Thanh Tu</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Truong Thanh Tu\source\repos\Lap44\Lap44\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>D:\Profile\CSharp\CShaprt\UWP\UI7\Lap44\Lap44\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Truong Thanh Tu\source\repos\Lap44\Lap44\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>D:\Profile\CSharp\CShaprt\UWP\UI7\Lap44\Lap44\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Truong Thanh Tu\source\repos\Lap44\Lap44\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap44\Lap44\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Truong Thanh Tu\source\repos\Lap44\Lap44\bin\x86\Debug\Lap44.exe">
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap44\Lap44\bin\x86\Debug\Lap44.exe">
       <PackagePath>entrypoint\Lap44.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
@@ -34,55 +34,79 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.18362.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Truong Thanh Tu\source\repos\Lap44\Lap44\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap44\Lap44\Assets\Financial1.jpeg">
+      <PackagePath>Assets\Financial1.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap44\Lap44\Assets\Financial2.jpeg">
+      <PackagePath>Assets\Financial2.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap44\Lap44\Assets\Financial3.jpeg">
+      <PackagePath>Assets\Financial3.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap44\Lap44\Assets\Financial4.jpeg">
+      <PackagePath>Assets\Financial4.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap44\Lap44\Assets\Financial5.jpeg">
+      <PackagePath>Assets\Financial5.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap44\Lap44\Assets\Food1.jpeg">
+      <PackagePath>Assets\Food1.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap44\Lap44\Assets\Food2.jpeg">
+      <PackagePath>Assets\Food2.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap44\Lap44\Assets\Food3.jpeg">
+      <PackagePath>Assets\Food3.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap44\Lap44\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Truong Thanh Tu\source\repos\Lap44\Lap44\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap44\Lap44\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Truong Thanh Tu\source\repos\Lap44\Lap44\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap44\Lap44\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Truong Thanh Tu\source\repos\Lap44\Lap44\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap44\Lap44\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Truong Thanh Tu\source\repos\Lap44\Lap44\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap44\Lap44\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Truong Thanh Tu\source\repos\Lap44\Lap44\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap44\Lap44\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Truong Thanh Tu\source\repos\Lap44\Lap44\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap44\Lap44\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Truong Thanh Tu\source\repos\Lap44\Lap44\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap44\Lap44\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Truong Thanh Tu\source\repos\Lap44\Lap44\bin\x86\Debug\Lap44.xr.xml">
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap44\Lap44\bin\x86\Debug\Lap44.xr.xml">
       <PackagePath>Lap44.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Truong Thanh Tu\source\repos\Lap44\Lap44\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap44\Lap44\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Truong Thanh Tu\source\repos\Lap44\Lap44\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap44\Lap44\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Truong Thanh Tu\source\repos\Lap44\Lap44\bin\x86\Debug\NewsItemControl.xbf">
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap44\Lap44\bin\x86\Debug\NewsItemControl.xbf">
       <PackagePath>NewsItemControl.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Truong Thanh Tu\source\repos\Lap44\Lap44\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap44\Lap44\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Truong Thanh Tu\source\repos\Lap44\Lap44\bin\x86\Debug\Core\Lap44.exe">
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap44\Lap44\bin\x86\Debug\Core\Lap44.exe">
       <PackagePath>Lap44.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

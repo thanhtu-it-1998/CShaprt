@@ -42,7 +42,8 @@
                      Margin="10"/>
 
             <TextBlock Grid.Row="2" Text="Avatar: " VerticalAlignment="Center" Margin="10"/>
-            <ComboBox x:ConnectionId='7' x:Name="AvatarComboBox" Height="50" Width="100" Grid.Row="2" Grid.Column="1"                              Margin="10">
+            <ComboBox x:ConnectionId='7' x:Name="AvatarComboBox" Height="50" Width="100" Grid.Row="2"
+                      Grid.Column="1"                              Margin="10">
 
                 <ComboBox.ItemTemplate>
                     <DataTemplate                       >

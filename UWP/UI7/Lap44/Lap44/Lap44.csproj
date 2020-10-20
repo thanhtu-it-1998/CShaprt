@@ -134,6 +134,14 @@
     </AppxManifest>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\Financial1.jpeg" />
+    <Content Include="Assets\Financial2.jpeg" />
+    <Content Include="Assets\Financial3.jpeg" />
+    <Content Include="Assets\Financial4.jpeg" />
+    <Content Include="Assets\Financial5.jpeg" />
+    <Content Include="Assets\Food1.jpeg" />
+    <Content Include="Assets\Food2.jpeg" />
+    <Content Include="Assets\Food3.jpeg" />
     <Content Include="Properties\Default.rd.xml" />
     <Content Include="Assets\LockScreenLogo.scale-200.png" />
     <Content Include="Assets\SplashScreen.scale-200.png" />

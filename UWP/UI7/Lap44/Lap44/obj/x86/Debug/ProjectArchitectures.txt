@@ -1,1 +1,1 @@
-C:\Users\Truong Thanh Tu\source\repos\Lap44\Lap44\Lap44.csproj;x86
+D:\Profile\CSharp\CShaprt\UWP\UI7\Lap44\Lap44\Lap44.csproj;x86

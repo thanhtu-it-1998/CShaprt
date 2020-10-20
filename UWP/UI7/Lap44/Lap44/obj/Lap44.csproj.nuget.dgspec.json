@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Truong Thanh Tu\\source\\repos\\Lap44\\Lap44\\Lap44.csproj": {}
+    "D:\\Profile\\CSharp\\CShaprt\\UWP\\UI7\\Lap44\\Lap44\\Lap44.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Truong Thanh Tu\\source\\repos\\Lap44\\Lap44\\Lap44.csproj": {
+    "D:\\Profile\\CSharp\\CShaprt\\UWP\\UI7\\Lap44\\Lap44\\Lap44.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Truong Thanh Tu\\source\\repos\\Lap44\\Lap44\\Lap44.csproj",
+        "projectUniqueName": "D:\\Profile\\CSharp\\CShaprt\\UWP\\UI7\\Lap44\\Lap44\\Lap44.csproj",
         "projectName": "Lap44",
-        "projectPath": "C:\\Users\\Truong Thanh Tu\\source\\repos\\Lap44\\Lap44\\Lap44.csproj",
+        "projectPath": "D:\\Profile\\CSharp\\CShaprt\\UWP\\UI7\\Lap44\\Lap44\\Lap44.csproj",
         "packagesPath": "C:\\Users\\Truong Thanh Tu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Truong Thanh Tu\\source\\repos\\Lap44\\Lap44\\obj\\",
+        "outputPath": "D:\\Profile\\CSharp\\CShaprt\\UWP\\UI7\\Lap44\\Lap44\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
