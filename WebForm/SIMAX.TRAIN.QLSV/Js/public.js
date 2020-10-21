@@ -1,17 +1,17 @@
 ﻿
 $.fn.smDialog = function (options) {
-    var defaults = {
+    var settings = {
         autoOpen: true,
         width: 900,
         local: options.local,
         show: { effect: "blink", duration: 1000 },
         hide: { effect: "explode", duration: 1000 },
     }
-    if (options) { $.extend(defaults, options); }
-    $(defaults.local).dialog({
-        width: defaults.width,
-        show: defaults.show,
-        hide: defaults.hide,
+    if (options) { $.extend(settings, options); }
+    $(settings.local).dialog({
+        width: settings.width,
+        show: settings.show,
+        hide: settings.hide,
         resizable: false,
         modal: true,
         dialogClass: 'fixedPosition presav-chatPanel',
