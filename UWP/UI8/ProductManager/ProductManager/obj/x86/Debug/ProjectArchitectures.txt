@@ -1,0 +1,1 @@
+D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\ProductManager.csproj;x86

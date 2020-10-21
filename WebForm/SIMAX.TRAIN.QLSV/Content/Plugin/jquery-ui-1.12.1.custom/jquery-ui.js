@@ -18717,11 +18717,8 @@ $.fn.smDialog = function (options) {
     var defaults = {
         autoOpen: true,
         width: 900,
-        title: "",
         show: { effect: "blink", duration: 1000 },
         hide: { effect: "explode", duration: 1000 },
-        resizable: false,
-        modal: true,
         oppen: this.dialog({
             dialogClass: 'fixedPosition presav-chatPanel',
             open: function (event, ui) {
@@ -18753,5 +18750,7 @@ $.fn.smDialog = function (options) {
 
         })
     }
-    if (options) { $.extend(defaults , options); }
+    if (options) { $.extend(defaults, options); }
+  
 }
+    

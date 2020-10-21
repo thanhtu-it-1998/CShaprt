@@ -45,7 +45,10 @@
             if (count == 1) {
                 $.post("/DanhMuc/SinhVien/ActionForm.aspx", {}, function (reuslt) {
                     $("#jdialog").html(reuslt);
-                    $("#frmAction").smDialog({autoClose: true});
+                    $("#frmAction").smDialog({
+                        autoOpen: true,
+
+                    });
 
                     if (key == "add") {
                         $("#btnSave").show();
