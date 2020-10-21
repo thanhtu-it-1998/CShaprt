@@ -2015,3 +2015,9 @@ a.ui-button:active,
 .presav-minimize .ui-dialog-titlebar {
     cursor: default !important;
 }
+
+#btnSize {
+    position: absolute;
+    right: 30px !important;
+    top:10px;
+}
