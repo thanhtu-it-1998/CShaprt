@@ -45,9 +45,9 @@
             if (count == 1) {
                 $.post("/DanhMuc/SinhVien/ActionForm.aspx", {}, function (reuslt) {
                     $("#jdialog").html(reuslt);
-                    $("#frmAction").smDialog({
+                    smDialog({
                         autoOpen: true,
-
+                        local: "#frmAction"
                     });
 
                     if (key == "add") {
