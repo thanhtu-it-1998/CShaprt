@@ -2,6 +2,6 @@
 ##Technologies
 - ASP.NET Core
 - ASP.NET Framework Core
-##Youtube Tutorial
-##How to configure and run 
-##How to contribute
+#Youtube Tutorial
+#How to configure and run 
+#How to contribute
