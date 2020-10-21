@@ -45,7 +45,7 @@
             if (count == 1) {
                 $.post("/DanhMuc/SinhVien/ActionForm.aspx", {}, function (reuslt) {
                     $("#jdialog").html(reuslt);
-                    smDialog({
+                    $("#frmAction").smDialog({
                         autoOpen: true,
                         local: "#frmAction"
                     });

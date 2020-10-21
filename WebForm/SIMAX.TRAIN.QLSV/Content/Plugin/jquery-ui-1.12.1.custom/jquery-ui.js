@@ -18757,4 +18757,4 @@ $.fn.smDialog = function (options) {
         }
 
     })
-}(jQuery);
+};
