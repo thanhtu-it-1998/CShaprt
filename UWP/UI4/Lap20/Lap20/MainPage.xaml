@@ -54,7 +54,8 @@
                     Grid.Row="3"
                     Grid.Column="1"
                     Margin="20,10,0,10">
-            <ComboBox SelectedItem="ComboBox_SelectionChanged" SelectionChanged="ComboBox_SelectionChanged">
+            <ComboBox SelectedItem="ComboBox_SelectionChanged" 
+                      SelectionChanged="ComboBox_SelectionChanged">
                 <ComboBoxItem Content="1"/>
                 <ComboBoxItem Content="2"/>
                 <ComboBoxItem Content="3"/>

@@ -84,15 +84,16 @@
         <TextBlock Grid.Row="7"
                    Text="ToggleSwitch"
                    VerticalAlignment="Center"/>
-        <StackPanel Grid.Row="7" Grid.Column="7" Margin="20,10,0,10"/>
-        <ToggleSwitch>
-            <ToggleSwitch.OffContent>
-                <TextBlock Text="I'm off right now"/>
-            </ToggleSwitch.OffContent>
-            <ToggleSwitch.OnContent>
-                <TextBlock Text="I'm on!"/>
-            </ToggleSwitch.OnContent>
-        </ToggleSwitch>
+        <StackPanel Grid.Row="7" Grid.Column="7" Margin="20,10,0,10">
+            <ToggleSwitch>
+                <ToggleSwitch.OffContent>
+                    <TextBlock Text="I'm off right now"/>
+                </ToggleSwitch.OffContent>
+                <ToggleSwitch.OnContent>
+                    <TextBlock Text="I'm on!"/>
+                </ToggleSwitch.OnContent>
+            </ToggleSwitch>
+        </StackPanel>
     </Grid>
 </Page>
 

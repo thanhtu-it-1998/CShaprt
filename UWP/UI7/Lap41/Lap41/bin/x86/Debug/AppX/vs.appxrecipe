@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-10-20T01:36:04.476</Modified>
+      <Modified>2020-10-21T17:30:08.603</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\bin\x86\Debug\Lap41.exe">
       <PackagePath>entrypoint\Lap41.exe</PackagePath>
-      <Modified>2020-10-20T01:36:04.150</Modified>
+      <Modified>2020-10-21T17:30:08.224</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -114,15 +114,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-10-20T01:36:04.033</Modified>
+      <Modified>2020-10-21T17:17:23.232</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\bin\x86\Debug\ContactTemplate.xbf">
       <PackagePath>ContactTemplate.xbf</PackagePath>
-      <Modified>2020-10-20T01:36:04.033</Modified>
+      <Modified>2020-10-21T17:17:23.232</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-10-20T01:36:04.033</Modified>
+      <Modified>2020-10-21T17:30:08.102</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -134,7 +134,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI7\Lap41\Lap41\bin\x86\Debug\Core\Lap41.exe">
       <PackagePath>Lap41.exe</PackagePath>
-      <Modified>2020-10-20T01:36:04.473</Modified>
+      <Modified>2020-10-21T17:30:08.593</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

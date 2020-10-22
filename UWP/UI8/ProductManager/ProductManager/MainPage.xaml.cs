@@ -25,14 +25,8 @@ namespace ProductManager
         public MainPage()
         {
             this.InitializeComponent();
-            MyFrame.Navigate(typeof(ShowAllProduct));
+            MyFrame.Navigate(typeof(ProductTemplate));
             TittleTextBox.Text = "All Proudct";
-
-        }
-
-        private void ListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
-        {
-
         }
 
         private void HumburgerButton_Click(object sender, RoutedEventArgs e)
@@ -40,7 +34,7 @@ namespace ProductManager
             MySplitView.IsPaneOpen = !MySplitView.IsPaneOpen;
         }
 
-        private void TextBlock_SelectionChanged(object sender, RoutedEventArgs e)
+        private void ListBox_SelectionChanged(object sender, RoutedEventArgs e)
         {
             if (AddProduct.IsSelected)
             {
@@ -49,22 +43,22 @@ namespace ProductManager
             }
             if (Home.IsSelected)
             {
-                MyFrame.Navigate(typeof(ShowAllProduct));
+                MyFrame.Navigate(typeof(ProductTemplate));
                 TittleTextBox.Text = "All Proudct";
             }
             if (Computer.IsSelected)
             {
-                MyFrame.Navigate(typeof(ShowCategoryProduct));
+                MyFrame.Navigate(typeof(ProductTemplate));
                 TittleTextBox.Text = "Computer Proudct";
             }
             if (SmaxPhone.IsSelected)
             {
-                MyFrame.Navigate(typeof(ShowCategoryProduct));
+                MyFrame.Navigate(typeof(ProductTemplate));
                 TittleTextBox.Text = "SmaxPhone Proudct";
             }
             if (Television.IsSelected)
             {
-                MyFrame.Navigate(typeof(ShowCategoryProduct));
+                MyFrame.Navigate(typeof(ProductTemplate));
                 TittleTextBox.Text = "Television Proudct";
             }
         }

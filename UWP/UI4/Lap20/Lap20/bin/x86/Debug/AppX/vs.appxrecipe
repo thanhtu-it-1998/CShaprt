@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\Profile\CSharp\CShaprt\UWP\UI4\Lap20\Lap20\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-10-12T15:16:50.072</Modified>
+      <Modified>2020-10-21T16:16:27.113</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI4\Lap20\Lap20\bin\x86\Debug\Lap20.exe">
       <PackagePath>entrypoint\Lap20.exe</PackagePath>
-      <Modified>2020-10-12T15:16:49.705</Modified>
+      <Modified>2020-10-21T16:16:26.008</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -98,7 +98,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI4\Lap20\Lap20\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-10-12T15:16:49.541</Modified>
+      <Modified>2020-10-21T16:16:25.739</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -110,7 +110,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI4\Lap20\Lap20\bin\x86\Debug\Core\Lap20.exe">
       <PackagePath>Lap20.exe</PackagePath>
-      <Modified>2020-10-12T15:16:50.069</Modified>
+      <Modified>2020-10-21T16:16:27.074</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

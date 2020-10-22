@@ -34,35 +34,44 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.18362.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\Assets\computer1.jpeg">
+      <PackagePath>Assets\computer1.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\Assets\computer2.jpeg">
+      <PackagePath>Assets\computer2.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\Assets\computer3.jpeg">
+      <PackagePath>Assets\computer3.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\Assets\computer4.jpeg">
+      <PackagePath>Assets\computer4.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\Assets\smaxphone1.jpeg">
+      <PackagePath>Assets\smaxphone1.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\Assets\smaxphone2.jpeg">
+      <PackagePath>Assets\smaxphone2.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\Assets\smaxphone3.jpeg">
+      <PackagePath>Assets\smaxphone3.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\Assets\smaxphone4.jpeg">
+      <PackagePath>Assets\smaxphone4.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\Assets\television1.jpeg">
+      <PackagePath>Assets\television1.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\Assets\television2.jpeg">
+      <PackagePath>Assets\television2.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\Assets\television3.jpeg">
+      <PackagePath>Assets\television3.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\Assets\television4.jpeg">
+      <PackagePath>Assets\television4.jpeg</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\Assets\LockScreenLogo.scale-200.png">
-      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\Assets\SplashScreen.scale-200.png">
-      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\Assets\Square150x150Logo.scale-200.png">
-      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\Assets\Square44x44Logo.scale-200.png">
-      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
-      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\Assets\StoreLogo.png">
-      <PackagePath>Assets\StoreLogo.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\Assets\Wide310x150Logo.scale-200.png">
-      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\bin\x86\Debug\ProductManager.xr.xml">
       <PackagePath>ProductManager.xr.xml</PackagePath>
@@ -76,11 +85,8 @@
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\bin\x86\Debug\ShowAllProduct.xbf">
-      <PackagePath>ShowAllProduct.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\bin\x86\Debug\ShowCategoryProduct.xbf">
-      <PackagePath>ShowCategoryProduct.xbf</PackagePath>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\bin\x86\Debug\ShowProduct.xbf">
+      <PackagePath>ShowProduct.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>

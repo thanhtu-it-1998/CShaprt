@@ -22,7 +22,7 @@ $.fn.smDialog = function (options) {
                 $('.presav-chatPanel .ui-dialog-titlebar-minimize span').removeClass('ui-icon-plusthick').addClass('ui-icon-minusthick');
             }
             if (!$('.presav-chatPanel .ui-dialog-titlebar .ui-dialog-titlebar-minimize').length) {
-                $('.ui-dialog-titlebar').append('<a href="#"  id="btnSize" class="ui-dialog-titlebar-minimize ui-corner-all" role="button">' +
+                $('.ui-dialog-titlebar').append('<a href="#"  class="ui-dialog-titlebar-minimize ui-corner-all" role="button">' +
                     '<span class="ui-icon ui-button-icon ui-icon-plusthick">minimize</span></a>');
                 $('.presav-chatPanel .ui-dialog-titlebar .ui-dialog-titlebar-minimize').on('click', function () {
                     var panel = $('.presav-chatPanel');

@@ -125,13 +125,12 @@
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Model\ImageProduct.cs" />
+    <Compile Include="Model\Product.cs" />
+    <Compile Include="ProductTemplate.xaml.cs">
+      <DependentUpon>ProductTemplate.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ShowAllProduct.xaml.cs">
-      <DependentUpon>ShowAllProduct.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="ShowCategoryProduct.xaml.cs">
-      <DependentUpon>ShowCategoryProduct.xaml</DependentUpon>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <AppxManifest Include="Package.appxmanifest">
@@ -139,14 +138,19 @@
     </AppxManifest>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\computer1.jpeg" />
+    <Content Include="Assets\computer2.jpeg" />
+    <Content Include="Assets\computer3.jpeg" />
+    <Content Include="Assets\computer4.jpeg" />
+    <Content Include="Assets\smaxphone1.jpeg" />
+    <Content Include="Assets\smaxphone2.jpeg" />
+    <Content Include="Assets\smaxphone3.jpeg" />
+    <Content Include="Assets\smaxphone4.jpeg" />
+    <Content Include="Assets\television1.jpeg" />
+    <Content Include="Assets\television2.jpeg" />
+    <Content Include="Assets\television3.jpeg" />
+    <Content Include="Assets\television4.jpeg" />
     <Content Include="Properties\Default.rd.xml" />
-    <Content Include="Assets\LockScreenLogo.scale-200.png" />
-    <Content Include="Assets\SplashScreen.scale-200.png" />
-    <Content Include="Assets\Square150x150Logo.scale-200.png" />
-    <Content Include="Assets\Square44x44Logo.scale-200.png" />
-    <Content Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png" />
-    <Content Include="Assets\StoreLogo.png" />
-    <Content Include="Assets\Wide310x150Logo.scale-200.png" />
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">
@@ -161,13 +165,13 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Page Include="ShowAllProduct.xaml">
+    <Page Include="ProductTemplate.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="ShowCategoryProduct.xaml">
-      <SubType>Designer</SubType>
+    <Page Include="Themes\Generic.xaml">
       <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
   <ItemGroup>
