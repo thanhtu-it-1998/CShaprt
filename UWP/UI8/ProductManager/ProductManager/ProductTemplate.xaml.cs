@@ -24,7 +24,7 @@ namespace ProductManager
         public ProductTemplate()
         {
             this.InitializeComponent();
-            this.DataContextChanged += (s, e) => Bindings.Update();
+            //this.DataContextChanged += (s, e) => Bindings.Update();
         }
     }
 }

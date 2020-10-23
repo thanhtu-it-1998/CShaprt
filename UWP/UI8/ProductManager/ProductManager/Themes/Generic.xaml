@@ -1,12 +1,12 @@
 <ResourceDictionary
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:local="using:ProductManager">
+    xmlns:local="using:ProductManager" xmlns:local1="using:ProductManager.Model">
 
-    <Style TargetType="local:ShowProduct" >
+    <Style TargetType="local:ProductTemplate" >
         <Setter Property="Template">
             <Setter.Value>
-                <ControlTemplate TargetType="local:ShowProduct">
+                <ControlTemplate TargetType="local:ProductTemplate">
                     <Border
                         Background="{TemplateBinding Background}"
                         BorderBrush="{TemplateBinding BorderBrush}"

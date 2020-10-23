@@ -85,8 +85,14 @@
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\bin\x86\Debug\ProductTemplate.xbf">
+      <PackagePath>ProductTemplate.xbf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\bin\x86\Debug\ShowProduct.xbf">
       <PackagePath>ShowProduct.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\bin\x86\Debug\Themes\Generic.xbf">
+      <PackagePath>Themes\Generic.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>

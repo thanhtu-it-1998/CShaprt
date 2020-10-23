@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-10-22T00:09:55.881</Modified>
+      <Modified>2020-10-22T02:58:01.147</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\bin\x86\Debug\ProductManager.exe">
       <PackagePath>entrypoint\ProductManager.exe</PackagePath>
-      <Modified>2020-10-22T00:09:55.218</Modified>
+      <Modified>2020-10-22T02:58:00.787</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -100,23 +100,31 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\bin\x86\Debug\ProductManager.xr.xml">
       <PackagePath>ProductManager.xr.xml</PackagePath>
-      <Modified>2020-10-21T23:45:33.256</Modified>
+      <Modified>2020-10-22T02:31:43.158</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-10-21T23:56:28.769</Modified>
+      <Modified>2020-10-22T02:58:00.653</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\bin\x86\Debug\AddProduct.xbf">
       <PackagePath>AddProduct.xbf</PackagePath>
-      <Modified>2020-10-21T23:56:28.769</Modified>
+      <Modified>2020-10-22T02:58:00.653</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-10-21T23:56:28.770</Modified>
+      <Modified>2020-10-22T02:58:00.653</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\bin\x86\Debug\ProductTemplate.xbf">
+      <PackagePath>ProductTemplate.xbf</PackagePath>
+      <Modified>2020-10-22T02:58:00.653</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\bin\x86\Debug\ShowProduct.xbf">
       <PackagePath>ShowProduct.xbf</PackagePath>
-      <Modified>2020-10-21T23:56:28.770</Modified>
+      <Modified>2020-10-22T02:58:00.653</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\bin\x86\Debug\Themes\Generic.xbf">
+      <PackagePath>Themes\Generic.xbf</PackagePath>
+      <Modified>2020-10-22T02:58:00.653</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -124,11 +132,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-10-21T17:32:02.955</Modified>
+      <Modified>2020-10-22T02:19:24.494</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI8\ProductManager\ProductManager\bin\x86\Debug\Core\ProductManager.exe">
       <PackagePath>ProductManager.exe</PackagePath>
-      <Modified>2020-10-22T00:09:55.875</Modified>
+      <Modified>2020-10-22T02:58:01.143</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

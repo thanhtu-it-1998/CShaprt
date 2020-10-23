@@ -15,5 +15,7 @@ AddProduct.xbf
 App.xbf
 MainPage.xbf
 ProductManager.xr.xml
+ProductTemplate.xbf
 ShowProduct.xbf
+Themes\Generic.xbf
 Properties\Default.rd.xml

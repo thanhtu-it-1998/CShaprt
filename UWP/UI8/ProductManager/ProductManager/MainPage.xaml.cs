@@ -1,5 +1,7 @@
-﻿using System;
+﻿using ProductManager.Model;
+using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices.WindowsRuntime;
@@ -25,7 +27,8 @@ namespace ProductManager
         public MainPage()
         {
             this.InitializeComponent();
-            MyFrame.Navigate(typeof(ProductTemplate));
+
+            MyFrame.Navigate(typeof(AddProduct));
             TittleTextBox.Text = "All Proudct";
         }
 
@@ -43,26 +46,31 @@ namespace ProductManager
             }
             if (Home.IsSelected)
             {
-                MyFrame.Navigate(typeof(ProductTemplate));
+                MyFrame.Navigate(typeof(ShowProduct));
                 TittleTextBox.Text = "All Proudct";
+                GetCategory("All");
             }
             if (Computer.IsSelected)
             {
-                MyFrame.Navigate(typeof(ProductTemplate));
+                MyFrame.Navigate(typeof(ShowProduct));
+
                 TittleTextBox.Text = "Computer Proudct";
             }
             if (SmaxPhone.IsSelected)
             {
-                MyFrame.Navigate(typeof(ProductTemplate));
+                MyFrame.Navigate(typeof(ShowProduct));
                 TittleTextBox.Text = "SmaxPhone Proudct";
             }
             if (Television.IsSelected)
             {
-                MyFrame.Navigate(typeof(ProductTemplate));
+                MyFrame.Navigate(typeof(ShowProduct));
                 TittleTextBox.Text = "Television Proudct";
             }
         }
 
-
+        public  string GetCategory(string category)
+        {
+            return category;
+        }
     }
 }
