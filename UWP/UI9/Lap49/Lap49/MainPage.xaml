@@ -5,6 +5,7 @@
     xmlns:local="using:Lap49"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:data="using:Lap49.Models"
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
     <Grid>
@@ -28,7 +29,7 @@
                     Content="&#xE0A6;"
                     FontSize="30"
                     Height="45"
-                    Width="45"/>
+                    Width="45" Click="BackButton_Click"/>
             <AutoSuggestBox x:Name="SearchAutoSuggestBox"
                             RelativePanel.AlignRightWithPanel="True"
                             Width="200"
@@ -43,7 +44,20 @@
                    CompactPaneLength="45"
                    Grid.Row="1">
             <SplitView.Pane>
-                <ListView  ItemClick="MenuListView_ItemClick" x:Name="MenuListView" IsItemClickEnabled="True"></ListView>
+                <ListView  ItemClick="MenuListView_ItemClick"
+                           x:Name="MenuItemsListView"
+                           ItemsSource="{x:Bind MenuItems}"
+                           IsItemClickEnabled="True">
+                    <ListView.ItemTemplate>
+                        <DataTemplate x:DataType="data:MenuItem">
+                            <StackPanel Orientation="Horizontal">
+                                <Image Source="{ x:Bind IconFile}" 
+                                       Height="45" Width="45"/>
+                                <TextBlock Text="{x:Bind Category}" FontSize="18" Margin="10,0,0,0"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
             </SplitView.Pane>
             <SplitView.Content>
                 <Grid>
@@ -56,16 +70,19 @@
                     <GridView Grid.Row="1"
                               x:Name="SoundGridView"
                               IsItemClickEnabled="True"
+                                AllowDrop="True"
+                              Drop="SoundGridView_Drop"
+                              ItemsSource="{x:Bind Sounds}"
                               SelectionMode="None"
                               ItemClick="SoundGridView_ItemClick">
                         <GridView.ItemTemplate>
-                            <DataTemplate>
-                                <Image x:Name="MyImage" Height="112" Width="101"></Image>
+                            <DataTemplate x:DataType="data:Sound">
+                                <Image x:Name="MyImage" Height="112" Source="{x:Bind ImageFile}" Width="101"></Image>
                             </DataTemplate>
                         </GridView.ItemTemplate>
                     </GridView>
                 </Grid>
-            </SplitView.Content>
+            </SplitView.Content>    
         </SplitView>
     </Grid>
 </Page>
