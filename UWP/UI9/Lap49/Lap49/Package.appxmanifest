@@ -7,11 +7,11 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="733e87ff-4bc1-4e53-8c44-ccef1c83f0fd"
+    Name="6e87bb27-ab27-4062-bb9e-8e31f56068ca"
     Publisher="CN=Truong Thanh Tu"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="733e87ff-4bc1-4e53-8c44-ccef1c83f0fd" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="6e87bb27-ab27-4062-bb9e-8e31f56068ca" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>Lap49</DisplayName>

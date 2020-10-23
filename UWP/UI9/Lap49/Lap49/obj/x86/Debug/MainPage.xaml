@@ -1,0 +1,72 @@
+﻿<Page
+    x:Class="Lap49.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Lap49"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <RelativePanel>
+            <Button x:ConnectionId='8' x:Name="HemburgerButton"
+                                                
+                    RelativePanel.AlignLeftWithPanel="True"
+                    FontFamily="Segoe MDL2 Assets"
+                    Content="&#xE700;"
+                    FontSize="30"
+                    Height="45"
+                    Width="45"/>
+            <Button x:ConnectionId='9' x:Name="BackButton"
+                    RelativePanel.RightOf="HemburgerButton"
+                     FontFamily="Segoe MDL2 Assets"
+                    Content="&#xE0A6;"
+                    FontSize="30"
+                    Height="45"
+                    Width="45"/>
+            <AutoSuggestBox x:ConnectionId='10' x:Name="SearchAutoSuggestBox"
+                            RelativePanel.AlignRightWithPanel="True"
+                            Width="200"
+                            Height="40"
+                            QueryIcon="Find"
+                            FontWeight="Bold"
+                            />
+        </RelativePanel>
+        <SplitView x:ConnectionId='2' x:Name="MySplitView"
+                   DisplayMode="CompactOverlay"
+                   OpenPaneLength="200"
+                   CompactPaneLength="45"
+                   Grid.Row="1">
+            <SplitView.Pane>
+                <ListView x:ConnectionId='3'                                     x:Name="MenuListView" IsItemClickEnabled="True"></ListView>
+            </SplitView.Pane>
+            <SplitView.Content>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <MediaElement x:ConnectionId='4' x:Name="MyMediaElement" AutoPlay="True"/>
+                    <TextBlock x:ConnectionId='5' x:Name="CategoryTextBlock" Text="All Sounds" FontSize="25" Margin="20, 0"/>
+                    <GridView x:ConnectionId='6' Grid.Row="1"
+                              x:Name="SoundGridView"
+                              IsItemClickEnabled="True"
+                              SelectionMode="None"
+                                                                 >
+                        <GridView.ItemTemplate>
+                            <DataTemplate>
+                                <Image x:Name="MyImage" Height="112" Width="101"></Image>
+                            </DataTemplate>
+                        </GridView.ItemTemplate>
+                    </GridView>
+                </Grid>
+            </SplitView.Content>
+        </SplitView>
+    </Grid>
+</Page>
+

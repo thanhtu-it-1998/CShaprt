@@ -7,8 +7,65 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-
     <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
 
+        <RelativePanel>
+            <Button x:Name="HemburgerButton"
+                   Click="HemburgerButton_Click"
+                    RelativePanel.AlignLeftWithPanel="True"
+                    FontFamily="Segoe MDL2 Assets"
+                    Content="&#xE700;"
+                    FontSize="30"
+                    Height="45"
+                    Width="45"/>
+            <Button x:Name="BackButton"
+                    RelativePanel.RightOf="HemburgerButton"
+                     FontFamily="Segoe MDL2 Assets"
+                    Content="&#xE0A6;"
+                    FontSize="30"
+                    Height="45"
+                    Width="45"/>
+            <AutoSuggestBox x:Name="SearchAutoSuggestBox"
+                            RelativePanel.AlignRightWithPanel="True"
+                            Width="200"
+                            Height="40"
+                            QueryIcon="Find"
+                            FontWeight="Bold"
+                            />
+        </RelativePanel>
+        <SplitView x:Name="MySplitView"
+                   DisplayMode="CompactOverlay"
+                   OpenPaneLength="200"
+                   CompactPaneLength="45"
+                   Grid.Row="1">
+            <SplitView.Pane>
+                <ListView  ItemClick="MenuListView_ItemClick" x:Name="MenuListView" IsItemClickEnabled="True"></ListView>
+            </SplitView.Pane>
+            <SplitView.Content>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <MediaElement x:Name="MyMediaElement" AutoPlay="True"/>
+                    <TextBlock x:Name="CategoryTextBlock" Text="All Sounds" FontSize="25" Margin="20, 0"/>
+                    <GridView Grid.Row="1"
+                              x:Name="SoundGridView"
+                              IsItemClickEnabled="True"
+                              SelectionMode="None"
+                              ItemClick="SoundGridView_ItemClick">
+                        <GridView.ItemTemplate>
+                            <DataTemplate>
+                                <Image x:Name="MyImage" Height="112" Width="101"></Image>
+                            </DataTemplate>
+                        </GridView.ItemTemplate>
+                    </GridView>
+                </Grid>
+            </SplitView.Content>
+        </SplitView>
     </Grid>
 </Page>
