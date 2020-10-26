@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lap49.Models
 {
-    class Sound
+    public class Sound
     {
         public string Name { get; set; }
         public SoundCategory Category { get; set; }
@@ -20,8 +20,6 @@ namespace Lap49.Models
             AudioFile = String.Format("/Assets/Audio/{0}/{1}.wav", category, name);
             ImageFile = String.Format("/Assets/Images/{0}/{1}.png", category, name);
         }
-
-      
     }
     public enum SoundCategory
     {
@@ -29,6 +27,5 @@ namespace Lap49.Models
         Cartoons,
         Taunts,
         Warnings
-
     }
 }

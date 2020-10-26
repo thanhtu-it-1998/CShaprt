@@ -7,22 +7,9 @@ using System.Threading.Tasks;
 
 namespace Lap49.Models
 {
-    class SoundManager
+    public class SoundManager
     {
-        public static void GetAllSounds(ObservableCollection<Sound> sounds)
-        {
-            var allSounds = getSounds();
-            allSounds.Clear();
-            allSounds.ForEach(p => sounds.Add(p));
-        }
-        public static void GetSoundByCategory(ObservableCollection<Sound> sounds,SoundCategory soundCategory)
-        {
-            var allSounds = getSounds();
-            var filterSounds = allSounds.Where(p => p.Category == soundCategory).ToList();
-            allSounds.Clear();
-            allSounds.ForEach(p => sounds.Add(p));
-        }
-        public static List<Sound> getSounds()
+        private static List<Sound> GetSounds()
         {
             var sounds = new List<Sound>();
 
@@ -40,5 +27,20 @@ namespace Lap49.Models
 
             return sounds;
         }
+        public static void GetAllSound(ObservableCollection<Sound> sounds)
+        {
+            var allSounds = GetSounds();
+            sounds.Clear();
+            allSounds.ForEach(p => sounds.Add(p));
+        }
+
+        public static void GetSoundsByCategory(ObservableCollection<Sound> sounds, SoundCategory soundCategory)
+        {
+            var allSounds = GetSounds();
+            var filteredSounds = allSounds.Where(p => p.Category == soundCategory).ToList();
+            sounds.Clear();
+            filteredSounds.ForEach(p => sounds.Add(p));
+        }
+
     }
 }

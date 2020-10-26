@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\Profile\CSharp\CShaprt\UWP\UI9\Lap49\Lap49\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-10-23T11:29:21.784</Modified>
+      <Modified>2020-10-24T02:52:57.880</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI9\Lap49\Lap49\bin\x86\Debug\Lap49.exe">
       <PackagePath>entrypoint\Lap49.exe</PackagePath>
-      <Modified>2020-10-23T11:29:21.427</Modified>
+      <Modified>2020-10-24T02:52:57.324</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -218,15 +218,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI9\Lap49\Lap49\bin\x86\Debug\Lap49.xr.xml">
       <PackagePath>Lap49.xr.xml</PackagePath>
-      <Modified>2020-10-23T11:29:21.266</Modified>
+      <Modified>2020-10-24T02:42:13.689</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI9\Lap49\Lap49\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-10-23T11:29:21.270</Modified>
+      <Modified>2020-10-24T02:52:57.155</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI9\Lap49\Lap49\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-10-23T11:29:21.270</Modified>
+      <Modified>2020-10-24T02:52:57.156</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -234,11 +234,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI9\Lap49\Lap49\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-10-23T10:38:12.519</Modified>
+      <Modified>2020-10-24T01:12:13.090</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Profile\CSharp\CShaprt\UWP\UI9\Lap49\Lap49\bin\x86\Debug\Core\Lap49.exe">
       <PackagePath>Lap49.exe</PackagePath>
-      <Modified>2020-10-23T11:29:21.780</Modified>
+      <Modified>2020-10-24T02:52:57.875</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

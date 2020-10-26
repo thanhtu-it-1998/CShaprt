@@ -30,72 +30,53 @@ namespace Lap49
         private List<MenuItem> MenuItems;
         public MainPage()
         {
-
             this.InitializeComponent();
             Sounds = new ObservableCollection<Sound>();
-            SoundManager.GetAllSounds(Sounds);
-
+            SoundManager.GetAllSound(Sounds);
             MenuItems = new List<MenuItem>();
-            MenuItems.Add(new MenuItem { IconFile = "/Assets/Icons/animals.png", Category = SoundCategory.Animals });
-            MenuItems.Add(new MenuItem { IconFile = "/Assets/Icons/cartoons.png", Category = SoundCategory.Cartoons });
-            MenuItems.Add(new MenuItem { IconFile = "/Assets/Icons/taunts.png", Category = SoundCategory.Taunts });
-            MenuItems.Add(new MenuItem { IconFile = "/Assets/Icons/warnings.png", Category = SoundCategory.Warnings });
+            MenuItems.Add(new MenuItem { IconFile = "Assets/Icons/animals.png", Category = SoundCategory.Animals });
+            MenuItems.Add(new MenuItem { IconFile = "Assets/Icons/cartoon.png", Category = SoundCategory.Cartoons });
+            MenuItems.Add(new MenuItem { IconFile = "Assets/Icons/taunt.png", Category = SoundCategory.Taunts });
+            MenuItems.Add(new MenuItem { IconFile = "Assets/Icons/warning.png", Category = SoundCategory.Warnings });
         }
 
-        private void HemburgerButton_Click(object sender, RoutedEventArgs e)
+        private void HamburgerButton_Click(object sender, RoutedEventArgs e)
+        {
+            MySplitView.IsPaneOpen = !MySplitView.IsPaneOpen;
+        }
+
+        private void BackButton_Click(object sender, RoutedEventArgs e)
+        {
+            SoundManager.GetAllSound(Sounds);
+            CategoryTextBlock.Text = "All Sound";
+            MenuItemsListView.SelectedItem = null;
+            BackButton.Visibility = Visibility.Collapsed;
+        }
+
+        private void SearchAutoSuggestBox_TextChanged(AutoSuggestBox sender, AutoSuggestBoxTextChangedEventArgs args)
         {
 
         }
 
-        private void MenuListView_ItemClick(object sender, ItemClickEventArgs e)
+        private void SearchAutoSuggestBox_QuerySubmitted(AutoSuggestBox sender, AutoSuggestBoxQuerySubmittedEventArgs args)
+        {
+
+        }
+
+        private void MenuItemsListView_ItemClick(object sender, ItemClickEventArgs e)
         {
             var menuItem = (MenuItem)e.ClickedItem;
 
             CategoryTextBlock.Text = menuItem.Category.ToString();
-            SoundManager.GetSoundByCategory(Sounds, menuItem.Category);
+            SoundManager.GetSoundsByCategory(Sounds, menuItem.Category);
             BackButton.Visibility = Visibility.Visible;
+
         }
 
         private void SoundGridView_ItemClick(object sender, ItemClickEventArgs e)
         {
             var sound = (Sound)e.ClickedItem;
-            MyMediaElement.Source = new Uri(this.BaseUri, sound.AudioFile);
-        }
-
-        private void BackButton_Click(object sender, RoutedEventArgs e)
-        {
-            SoundManager.GetAllSounds(Sounds);
-            CategoryTextBlock.Text = "All Sounds";
-            MenuItemsListView.SelectedItem = null;
-            BackButton.Visibility = Visibility.Visible;
-        }
-
-        private async void SoundGridView_Drop(object sender, DragEventArgs e)
-        {
-            if (e.DataView.Contains(StandardDataFormats.StorageItems))
-            {
-                var items = await e.DataView.GetStorageItemsAsync();
-
-                if (items.Any())
-                {
-                    var storageFile = items[0] as StorageFile;
-                    var contentType = storageFile.ContentType;
-                    StorageFolder folder = ApplicationData.Current.LocalFolder;
-                    if (contentType == "audio/wav" || contentType == "audio/mpeg")
-                    {
-                        StorageFile newFile = await storageFile.CopyAsync(folder, storageFile.Name, NameCollisionOption.GenerateUniqueName);
-                        MyMediaElement.SetSource(await storageFile.OpenAsync(FileAccessMode.Read), contentType);
-                        MyMediaElement.Play();
-                    }
-
-                }
-            }
-        }
-
-        private void SoundGridView_DrapOver(object sender, DragEventArgs e)
-        {
-            e.AcceptedOperation = DataPackageOperation.Copy;
-             e.Drap
+            MyMediElement.Source = new Uri(this.BaseUri, sound.AudioFile);
         }
     }
 }

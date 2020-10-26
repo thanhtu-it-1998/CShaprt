@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ManageStudentModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="ManageStudentEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="DMClasses" EntityType="ManageStudentModel.DMClass" />
+    <EntitySet Name="DMStudents" EntityType="ManageStudentModel.DMStudent" />
+    <EntitySet Name="DMSubjects" EntityType="ManageStudentModel.DMSubject" />
+    <EntitySet Name="DMSubjectStudents" EntityType="ManageStudentModel.DMSubjectStudent" />
+    <AssociationSet Name="FK__DMStudent__IDCla__2B3F6F97" Association="ManageStudentModel.FK__DMStudent__IDCla__2B3F6F97">
+      <End Role="DMClass" EntitySet="DMClasses" />
+      <End Role="DMStudent" EntitySet="DMStudents" />
+    </AssociationSet>
+    <AssociationSet Name="FK__DMSubject__IDStu__2C3393D0" Association="ManageStudentModel.FK__DMSubject__IDStu__2C3393D0">
+      <End Role="DMStudent" EntitySet="DMStudents" />
+      <End Role="DMSubjectStudent" EntitySet="DMSubjectStudents" />
+    </AssociationSet>
+    <AssociationSet Name="FK__DMSubject__IDSub__2D27B809" Association="ManageStudentModel.FK__DMSubject__IDSub__2D27B809">
+      <End Role="DMSubject" EntitySet="DMSubjects" />
+      <End Role="DMSubjectStudent" EntitySet="DMSubjectStudents" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="DMClass">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="DMStudents" Relationship="ManageStudentModel.FK__DMStudent__IDCla__2B3F6F97" FromRole="DMClass" ToRole="DMStudent" />
+  </EntityType>
+  <EntityType Name="DMStudent">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IDClass" Type="Int32" Nullable="false" />
+    <Property Name="LastName" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="FirstName" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Address" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="BirthDay" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Phone" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Sex" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="DMClass" Relationship="ManageStudentModel.FK__DMStudent__IDCla__2B3F6F97" FromRole="DMStudent" ToRole="DMClass" />
+    <NavigationProperty Name="DMSubjectStudents" Relationship="ManageStudentModel.FK__DMSubject__IDStu__2C3393D0" FromRole="DMStudent" ToRole="DMSubjectStudent" />
+  </EntityType>
+  <EntityType Name="DMSubject">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="DMSubjectStudents" Relationship="ManageStudentModel.FK__DMSubject__IDSub__2D27B809" FromRole="DMSubject" ToRole="DMSubjectStudent" />
+  </EntityType>
+  <EntityType Name="DMSubjectStudent">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IDStudent" Type="Int32" Nullable="false" />
+    <Property Name="IDSubject" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="DMStudent" Relationship="ManageStudentModel.FK__DMSubject__IDStu__2C3393D0" FromRole="DMSubjectStudent" ToRole="DMStudent" />
+    <NavigationProperty Name="DMSubject" Relationship="ManageStudentModel.FK__DMSubject__IDSub__2D27B809" FromRole="DMSubjectStudent" ToRole="DMSubject" />
+  </EntityType>
+  <Association Name="FK__DMStudent__IDCla__2B3F6F97">
+    <End Type="ManageStudentModel.DMClass" Role="DMClass" Multiplicity="1" />
+    <End Type="ManageStudentModel.DMStudent" Role="DMStudent" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DMClass">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="DMStudent">
+        <PropertyRef Name="IDClass" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__DMSubject__IDStu__2C3393D0">
+    <End Type="ManageStudentModel.DMStudent" Role="DMStudent" Multiplicity="1" />
+    <End Type="ManageStudentModel.DMSubjectStudent" Role="DMSubjectStudent" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DMStudent">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="DMSubjectStudent">
+        <PropertyRef Name="IDStudent" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__DMSubject__IDSub__2D27B809">
+    <End Type="ManageStudentModel.DMSubject" Role="DMSubject" Multiplicity="1" />
+    <End Type="ManageStudentModel.DMSubjectStudent" Role="DMSubjectStudent" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DMSubject">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="DMSubjectStudent">
+        <PropertyRef Name="IDSubject" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

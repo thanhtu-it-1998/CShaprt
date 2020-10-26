@@ -1,0 +1,15 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/MasterPages/MasterView.Master" AutoEventWireup="true" CodeBehind="LayoutSinhVien.master.cs" Inherits="TRAIN.SIMAX.WEBSIZE.Layout.SinhVien.LayoutSinhVien" %>
+
+<asp:Content ID="titleLayout" ContentPlaceHolderID="titleLayout" runat="server">
+    Quản Lý Sinh Viên
+</asp:Content>
+<asp:Content ID="headLayout" ContentPlaceHolderID="headLayout" runat="server">
+</asp:Content>
+<asp:Content ID="contentLayout" ContentPlaceHolderID="contentLayout" runat="server">
+    <div id="content-nav">
+    </div>
+    <div id="content-main">
+        <asp:ContentPlaceHolder ID="Content" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+</asp:Content>

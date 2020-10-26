@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ManageStudentModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="DMClass">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="128" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DMStudent">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IDClass" Type="int" Nullable="false" />
+    <Property Name="LastName" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="FirstName" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Address" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="BirthDay" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Phone" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Sex" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DMSubjects">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="128" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DMSubjectStudent">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IDStudent" Type="int" Nullable="false" />
+    <Property Name="IDSubject" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__DMStudent__IDCla__2B3F6F97">
+    <End Role="DMClass" Type="Self.DMClass" Multiplicity="1" />
+    <End Role="DMStudent" Type="Self.DMStudent" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DMClass">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="DMStudent">
+        <PropertyRef Name="IDClass" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__DMSubject__IDStu__2C3393D0">
+    <End Role="DMStudent" Type="Self.DMStudent" Multiplicity="1" />
+    <End Role="DMSubjectStudent" Type="Self.DMSubjectStudent" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DMStudent">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="DMSubjectStudent">
+        <PropertyRef Name="IDStudent" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__DMSubject__IDSub__2D27B809">
+    <End Role="DMSubjects" Type="Self.DMSubjects" Multiplicity="1" />
+    <End Role="DMSubjectStudent" Type="Self.DMSubjectStudent" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DMSubjects">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="DMSubjectStudent">
+        <PropertyRef Name="IDSubject" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ManageStudentModelStoreContainer">
+    <EntitySet Name="DMClass" EntityType="Self.DMClass" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DMStudent" EntityType="Self.DMStudent" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DMSubjects" EntityType="Self.DMSubjects" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DMSubjectStudent" EntityType="Self.DMSubjectStudent" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__DMStudent__IDCla__2B3F6F97" Association="Self.FK__DMStudent__IDCla__2B3F6F97">
+      <End Role="DMClass" EntitySet="DMClass" />
+      <End Role="DMStudent" EntitySet="DMStudent" />
+    </AssociationSet>
+    <AssociationSet Name="FK__DMSubject__IDStu__2C3393D0" Association="Self.FK__DMSubject__IDStu__2C3393D0">
+      <End Role="DMStudent" EntitySet="DMStudent" />
+      <End Role="DMSubjectStudent" EntitySet="DMSubjectStudent" />
+    </AssociationSet>
+    <AssociationSet Name="FK__DMSubject__IDSub__2D27B809" Association="Self.FK__DMSubject__IDSub__2D27B809">
+      <End Role="DMSubjects" EntitySet="DMSubjects" />
+      <End Role="DMSubjectStudent" EntitySet="DMSubjectStudent" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

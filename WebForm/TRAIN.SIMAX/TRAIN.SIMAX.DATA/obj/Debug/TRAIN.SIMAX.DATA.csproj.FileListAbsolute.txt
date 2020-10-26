@@ -1,0 +1,12 @@
+D:\Profile\CSharp\CShaprt\WebForm\TRAIN.SIMAX\TRAIN.SIMAX.DATA\bin\Debug\TRAIN.SIMAX.DATA.exe.config
+D:\Profile\CSharp\CShaprt\WebForm\TRAIN.SIMAX\TRAIN.SIMAX.DATA\bin\Debug\TRAIN.SIMAX.DATA.exe
+D:\Profile\CSharp\CShaprt\WebForm\TRAIN.SIMAX\TRAIN.SIMAX.DATA\bin\Debug\TRAIN.SIMAX.DATA.pdb
+D:\Profile\CSharp\CShaprt\WebForm\TRAIN.SIMAX\TRAIN.SIMAX.DATA\bin\Debug\EntityFramework.dll
+D:\Profile\CSharp\CShaprt\WebForm\TRAIN.SIMAX\TRAIN.SIMAX.DATA\bin\Debug\EntityFramework.SqlServer.dll
+D:\Profile\CSharp\CShaprt\WebForm\TRAIN.SIMAX\TRAIN.SIMAX.DATA\bin\Debug\EntityFramework.xml
+D:\Profile\CSharp\CShaprt\WebForm\TRAIN.SIMAX\TRAIN.SIMAX.DATA\bin\Debug\EntityFramework.SqlServer.xml
+D:\Profile\CSharp\CShaprt\WebForm\TRAIN.SIMAX\TRAIN.SIMAX.DATA\obj\Debug\TRAIN.SIMAX.DATA.csprojAssemblyReference.cache
+D:\Profile\CSharp\CShaprt\WebForm\TRAIN.SIMAX\TRAIN.SIMAX.DATA\obj\Debug\TRAIN.SIMAX.DATA.csproj.CoreCompileInputs.cache
+D:\Profile\CSharp\CShaprt\WebForm\TRAIN.SIMAX\TRAIN.SIMAX.DATA\obj\Debug\TRAIN.SIMAX.DATA.csproj.CopyComplete
+D:\Profile\CSharp\CShaprt\WebForm\TRAIN.SIMAX\TRAIN.SIMAX.DATA\obj\Debug\TRAIN.SIMAX.DATA.exe
+D:\Profile\CSharp\CShaprt\WebForm\TRAIN.SIMAX\TRAIN.SIMAX.DATA\obj\Debug\TRAIN.SIMAX.DATA.pdb
