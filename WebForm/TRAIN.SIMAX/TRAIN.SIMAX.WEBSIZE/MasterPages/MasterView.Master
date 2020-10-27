@@ -11,10 +11,9 @@
     <link href="/Image/logo.jpg" rel="icon" type="image/jpg" />
     <link href="/CSS/bootstrap.min.css" rel="stylesheet" />
     <link href="/CSS/style-sm.css" rel="stylesheet" />
-    <link href="/CSS/jquery-ui-1.12.1.custom/jquery-ui.css" rel="stylesheet" />
-    <script src="/JS/jquery-3.5.1.slim.min.js"></script>
-    <script src="/JS/bootstrap.bundle.min.js"></script>
     <script src="/JS/jquery-3.5.1.min.js"></script>
+    <link href="/CSS/jquery-ui-1.12.1.custom/jquery-ui.css" rel="stylesheet" />
+    <script src="/JS/jquery-ui-1.12.1.custom/jquery-ui.js"></script>
     <script src="/JS/jquery-sm-sv.js"></script>
     <asp:ContentPlaceHolder ID="headLayout" runat="server">
     </asp:ContentPlaceHolder>
@@ -22,14 +21,36 @@
 <body>
     <div id="main">
         <div id="header">
-            <div id="banner"></div>
-            <div id="navigation"></div>
+            <div id="navigation" class=" bg-light">
+                <nav class="navbar navbar-expand-lg navbar-light font-weight-bold">
+                    <a class="navbar-brand" href="#">SIMAX</a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarNav">
+                        <ul class="navbar-nav">
+                            <li class="nav-item active">
+                                <a class="nav-link" href="#">Trang Chủ<span class="sr-only">(current)</span></a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">Giới Thiệu</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">Tìm Kiếm</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">Danh Mục</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
         </div>
-        <div id="contain-main">
+        <div id="contain-main" class="row m-1 mt-3">
             <asp:ContentPlaceHolder ID="contentLayout" runat="server">
             </asp:ContentPlaceHolder>
         </div>
-        <div id="footer"></div>
     </div>
+    <div id="dlgForm"></div>
 </body>
 </html>

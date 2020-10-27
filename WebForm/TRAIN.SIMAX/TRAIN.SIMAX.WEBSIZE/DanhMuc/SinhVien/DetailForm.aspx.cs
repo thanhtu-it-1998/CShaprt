@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace TRAIN.SIMAX.WEBSIZE.DanhMuc.SinhVien
 {
-    public partial class ActionHandler : System.Web.UI.Page
+    public partial class DetailForm : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {

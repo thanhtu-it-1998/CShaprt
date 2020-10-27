@@ -69,8 +69,8 @@
   <ItemGroup>
     <Content Include="CSS\bootstrap.min.css" />
     <Content Include="CSS\style-sm.css" />
-    <Content Include="DanhMuc\SinhVien\DetailForm.aspx" />
     <Content Include="DanhMuc\SinhVien\ActionHandler.aspx" />
+    <Content Include="DanhMuc\SinhVien\DetailForm.aspx" />
     <Content Include="DanhMuc\SinhVien\FormMain.aspx" />
     <Content Include="DanhMuc\SinhVien\ViewForm.aspx" />
     <Content Include="JS\bootstrap.bundle.min.js" />
@@ -97,19 +97,19 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DanhMuc\SinhVien\DetailForm.aspx.cs">
-      <DependentUpon>DetailForm.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="DanhMuc\SinhVien\DetailForm.aspx.designer.cs">
-      <DependentUpon>DetailForm.aspx</DependentUpon>
-    </Compile>
     <Compile Include="DanhMuc\SinhVien\ActionHandler.aspx.cs">
       <DependentUpon>ActionHandler.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="DanhMuc\SinhVien\ActionHandler.aspx.designer.cs">
       <DependentUpon>ActionHandler.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DanhMuc\SinhVien\DetailForm.aspx.cs">
+      <DependentUpon>DetailForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DanhMuc\SinhVien\DetailForm.aspx.designer.cs">
+      <DependentUpon>DetailForm.aspx</DependentUpon>
     </Compile>
     <Compile Include="DanhMuc\SinhVien\FormMain.aspx.cs">
       <DependentUpon>FormMain.aspx</DependentUpon>
