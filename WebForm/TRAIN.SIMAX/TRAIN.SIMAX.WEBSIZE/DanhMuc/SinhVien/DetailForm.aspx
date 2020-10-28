@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="DetailForm.aspx.cs" Inherits="TRAIN.SIMAX.WEBSIZE.DanhMuc.SinhVien.DetailForm" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="DetailForm.aspx.cs" Inherits="TRAIN.SIMAX.WEBSIZE.DanhMuc.SinhVien.DetailForm" %>
 
 <div id="frmDetailForm">
     <div class="form-row">

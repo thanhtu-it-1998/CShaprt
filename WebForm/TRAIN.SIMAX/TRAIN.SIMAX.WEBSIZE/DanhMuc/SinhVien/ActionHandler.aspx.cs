@@ -13,11 +13,11 @@ namespace TRAIN.SIMAX.WEBSIZE.DanhMuc.SinhVien
         string doAction = "";
         JEntity jMessage = new JEntity();
         ManageStudentEntities dbManage;
-        DmTinhNangDAP dapTinhNang;
+        StudentDAP dapTinhNang;
         protected void Page_Load(object sender, EventArgs e)
         {
             dbManage = new ManageStudentEntities();
-            dapTinhNang = new DmTinhNangDAP(dbManage);
+            dapTinhNang = new StudentDAP(dbManage);
 
             doAction = Request["do"];
             switch (doAction)
@@ -40,7 +40,9 @@ namespace TRAIN.SIMAX.WEBSIZE.DanhMuc.SinhVien
         private void Add()
         { }
         private void Update()
-        { }
+        { 
+
+        }
         private void Delete()
         { }
 

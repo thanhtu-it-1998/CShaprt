@@ -13,10 +13,10 @@ namespace TRAIN.SIMAX.DATA
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class ManageStudentEntities : DbContext
+    public partial class ManageStudent : DbContext
     {
-        public ManageStudentEntities()
-            : base("name=ManageStudentEntities")
+        public ManageStudent()
+            : base("name=ManageStudent")
         {
         }
     
@@ -29,5 +29,6 @@ namespace TRAIN.SIMAX.DATA
         public virtual DbSet<DMStudent> DMStudents { get; set; }
         public virtual DbSet<DMSubject> DMSubjects { get; set; }
         public virtual DbSet<DMSubjectStudent> DMSubjectStudents { get; set; }
+        public virtual DbSet<sysdiagram> sysdiagrams { get; set; }
     }
 }

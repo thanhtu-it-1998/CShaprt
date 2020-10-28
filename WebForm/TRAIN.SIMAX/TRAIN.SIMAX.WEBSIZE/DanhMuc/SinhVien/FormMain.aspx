@@ -1,6 +1,18 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Layout/SinhVien/LayoutSinhVien.master" AutoEventWireup="true" CodeBehind="FormMain.aspx.cs" Inherits="TRAIN.SIMAX.WEBSIZE.DanhMuc.SinhVien.FormMain" %>
 
 <asp:Content ID="Content" ContentPlaceHolderID="Content" runat="server">
+    <script>
+        $(document).ready(function () {
+            $("#btnAdd").on("click", function () {
+                $.post("DetailForm.aspx", function (data) {
+                    $("#dlgForm").html(data);
+                    $("#frmDetailForm").dialog({
+                        autoOpen: "open",
+                    })
+                })
+            })
+        })
+    </script>
     <div id="top-main">
         <div class="row">
             <div class="col">
@@ -67,13 +79,5 @@
             </tbody>
         </table>
     </div>
-    <script>
-        $(document).ready(function () {
-            $("#btnAdd").on("click", function () {
-                $.post("DetailForm.aspx", { "do": "Add" }, function (data) {
-                    alert("Thanh cong");
-                });
-            })
-        })
-    </script>
+
 </asp:Content>

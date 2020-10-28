@@ -13,5 +13,9 @@ namespace TRAIN.SIMAX.WEBSIZE.DanhMuc.SinhVien
         {
 
         }
+        protected void Main()
+        {
+
+        }
     }
 }

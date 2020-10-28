@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace TRAIN.SIMAX.DATA
 {
-    public class DmTinhNangDAP
+    public class StudentDAP
     {
         ManageStudentEntities dbManage;
-        public DmTinhNangDAP(ManageStudentEntities _dbManage)
+        public StudentDAP(ManageStudentEntities _dbManage)
         {
             dbManage = _dbManage;
         }

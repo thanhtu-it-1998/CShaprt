@@ -20,8 +20,8 @@ namespace TRAIN.SIMAX.DATA
             this.DMSubjectStudents = new HashSet<DMSubjectStudent>();
         }
     
-        public int ID { get; set; }
-        public int IDClass { get; set; }
+        public string ID { get; set; }
+        public string IDClass { get; set; }
         public string LastName { get; set; }
         public string FirstName { get; set; }
         public string Address { get; set; }
@@ -32,17 +32,5 @@ namespace TRAIN.SIMAX.DATA
         public virtual DMClass DMClass { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<DMSubjectStudent> DMSubjectStudents { get; set; }
-    }
-
-    public partial class DMStudentEntity
-    {
-        public int ID { get; set; }
-        public int IDClass { get; set; }
-        public string LastName { get; set; }
-        public string FirstName { get; set; }
-        public string Address { get; set; }
-        public string BirthDay { get; set; }
-        public string Phone { get; set; }
-        public string Sex { get; set; }
     }
 }

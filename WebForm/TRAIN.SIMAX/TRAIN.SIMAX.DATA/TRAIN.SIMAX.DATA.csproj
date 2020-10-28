@@ -82,7 +82,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>ManageStudentModel.edmx</DependentUpon>
     </Compile>
-    <Compile Include="LID\DmTinhNangDAP.cs" />
+    <Compile Include="LID\DmStudentDAP.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

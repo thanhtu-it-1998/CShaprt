@@ -12,13 +12,12 @@ namespace TRAIN.SIMAX.DATA
     using System;
     using System.Collections.Generic;
     
-    public partial class DMSubjectStudent
+    public partial class sysdiagram
     {
-        public int ID { get; set; }
-        public string IDStudent { get; set; }
-        public string IDSubject { get; set; }
-    
-        public virtual DMStudent DMStudent { get; set; }
-        public virtual DMSubject DMSubject { get; set; }
+        public string name { get; set; }
+        public int principal_id { get; set; }
+        public int diagram_id { get; set; }
+        public Nullable<int> version { get; set; }
+        public byte[] definition { get; set; }
     }
 }
