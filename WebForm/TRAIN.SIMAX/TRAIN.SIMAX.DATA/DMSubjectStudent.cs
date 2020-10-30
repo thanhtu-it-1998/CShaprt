@@ -21,4 +21,11 @@ namespace TRAIN.SIMAX.DATA
         public virtual DMStudent DMStudent { get; set; }
         public virtual DMSubject DMSubject { get; set; }
     }
+
+    public partial class DMSubjectStudentEntities
+    {
+        public int ID { get; set; }
+        public string IDStudent { get; set; }
+        public string IDSubject { get; set; }
+    }
 }

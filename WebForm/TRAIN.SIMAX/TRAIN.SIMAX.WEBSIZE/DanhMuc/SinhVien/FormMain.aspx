@@ -8,6 +8,7 @@
                     $("#dlgForm").html(data);
                     $("#frmDetailForm").dialog({
                         autoOpen: "open",
+                        t
                     })
                 })
             })
@@ -51,14 +52,16 @@
                 </tr>
             </thead>
             <tbody>
+             <%--   <%foreach (var item in lstStudent)
+                    { %>
                 <tr>
-                    <th scope="row">1</th>
-                    <td>Trương Thanh Tú</td>
-                    <td>Huế</td>
-                    <td>03-09-1998</td>
-                    <td>016503252356</td>
-                    <td>Nam</td>
-                    <td>
+                    <th scope="row"><% =item.ID%></th>
+                    <td><% =(item.LastName + item.FirstName)%></td>
+                    <td><% =item.Address%></td>
+                    <td><% =item.BirthDay%></td>
+                    <td><% =item.Phone%></td>
+                    <td><% =item.Sex%></td>
+                    <td> 
                         <div class="btn-group" role="group" aria-label="Basic example">
                             <button type="button" class="btn btn-outline-primary " id="btnView" title="Xem thông tin">
                                 <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-eye" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
@@ -76,6 +79,7 @@
                         </div>
                     </td>
                 </tr>
+                <%} %>--%>
             </tbody>
         </table>
     </div>

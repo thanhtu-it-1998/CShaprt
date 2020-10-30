@@ -11,7 +11,7 @@ namespace TRAIN.SIMAX.DATA
 {
     using System;
     using System.Collections.Generic;
-    
+
     public partial class DMClass
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
@@ -19,11 +19,17 @@ namespace TRAIN.SIMAX.DATA
         {
             this.DMStudents = new HashSet<DMStudent>();
         }
-    
+
         public string ID { get; set; }
         public string Name { get; set; }
-    
+
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<DMStudent> DMStudents { get; set; }
+    }
+
+    public partial class DMClassEntities
+    {
+        public string ID { get; set; }
+        public string Name { get; set; }
     }
 }

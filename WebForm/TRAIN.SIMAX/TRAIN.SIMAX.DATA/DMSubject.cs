@@ -26,4 +26,11 @@ namespace TRAIN.SIMAX.DATA
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<DMSubjectStudent> DMSubjectStudents { get; set; }
     }
+
+    public partial class DMSubjectEntities
+    {
+        public string ID { get; set; }
+        public string Name { get; set; }
+    }
+
 }

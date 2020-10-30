@@ -12,11 +12,13 @@ namespace TRAIN.SIMAX.WEBSIZE.DanhMuc.SinhVien
     {
         string doAction = "";
         JEntity jMessage = new JEntity();
-        ManageStudentEntities dbManage;
+        ManageStudent dbManage;
         StudentDAP dapTinhNang;
+        ManageStudent manageStudent = new ManageStudent();
+
         protected void Page_Load(object sender, EventArgs e)
         {
-            dbManage = new ManageStudentEntities();
+            dbManage = new ManageStudent();
             dapTinhNang = new StudentDAP(dbManage);
 
             doAction = Request["do"];
@@ -31,6 +33,9 @@ namespace TRAIN.SIMAX.WEBSIZE.DanhMuc.SinhVien
                 case "delete":
                     Delete();
                     break;
+                case "load":
+                    LoadTable();
+                    break;
                 default:
                     break;
             }
@@ -38,13 +43,24 @@ namespace TRAIN.SIMAX.WEBSIZE.DanhMuc.SinhVien
             RenderMessage(jMessage);
         }
         private void Add()
-        { }
-        private void Update()
         { 
+        
+            
+        }
+        private void Update()
+        {
 
         }
         private void Delete()
         { }
+
+        private List<DMStudentEntities> LoadTable()
+        {
+            List<DMStudentEntities> students = new List<DMStudentEntities>();
+            StudentDAP studentDAP = new StudentDAP(manageStudent);
+            students = studentDAP.getPages();
+            return students;
+        }
 
         protected void RenderMessage<T>(T _object)
         {
