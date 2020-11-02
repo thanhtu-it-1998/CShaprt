@@ -133,6 +133,7 @@
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="Images\convertible.png" />
     <Content Include="Item.aspx" />
     <Content Include="WingtipToys.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
