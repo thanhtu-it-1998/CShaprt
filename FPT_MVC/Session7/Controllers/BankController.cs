@@ -26,7 +26,7 @@ namespace Session7.Controllers
             _context.SaveChanges();
             return Ok("Success");
         }
-        
+
         [HttpGet]
         [Authorize]
         [Route("api/Bank/GetAll")]
@@ -34,6 +34,34 @@ namespace Session7.Controllers
         {
             var banks = _context.Table_DB_Bank.ToList();
             return Ok(banks);
+        }
+
+        [HttpGet]
+        [Authorize]
+        [Route("api/Bank/Modify")]
+        public IHttpActionResult Modify(BankModel bankModel)
+        {
+            var bank = new Table_DB_Bank()
+            {
+                BankName = bankModel.BankName,
+                Id = bankModel.Id,
+                IFSC = bankModel.IFSC
+            };
+
+            _context.Entry(bank).State = System.Data.Entity.EntityState.Modified;
+            _context.SaveChanges();
+            return Ok("Seccess");
+        }
+
+        [HttpGet]
+        [Authorize]
+        [Route("api/Bank/Delete/{id}")]
+        public IHttpActionResult Delete(int id)
+        {
+            var bank = _context.Table_DB_Bank.SingleOrDefault(e => e.Id == id);
+            _context.Table_DB_Bank.Remove(bank);
+            _context.SaveChanges();
+            return Ok("Seccess");
         }
     }
 }

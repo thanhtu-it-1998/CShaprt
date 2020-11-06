@@ -4,7 +4,7 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="2cc2624ab5be44fe99b5bcd00163b0d5" Name="Diagram1">
+      <Diagram DiagramId="4a8e9be23c63439d9f06c4480dc11163" Name="Diagram1">
         <EntityTypeShape EntityType="DammioMVCModel.Category" Width="1.5" PointX="0.75" PointY="1.25" IsExpanded="true" />
         <EntityTypeShape EntityType="DammioMVCModel.Link" Width="1.5" PointX="3" PointY="0.875" IsExpanded="true" />
         <EntityTypeShape EntityType="DammioMVCModel.sysdiagram" Width="1.5" PointX="0.75" PointY="4.75" IsExpanded="true" />

@@ -77,3 +77,7 @@ D:\Profile\CSharp\CShaprt\MVC\DammioMVC\obj\Debug\DammioMVC.csproj.CoreCompileIn
 D:\Profile\CSharp\CShaprt\MVC\DammioMVC\obj\Debug\DammioMVC.csproj.CopyComplete
 D:\Profile\CSharp\CShaprt\MVC\DammioMVC\obj\Debug\DammioMVC.dll
 D:\Profile\CSharp\CShaprt\MVC\DammioMVC\obj\Debug\DammioMVC.pdb
+D:\Profile\CSharp\CShaprt\MVC\DammioMVC\bin\EntityFramework.dll
+D:\Profile\CSharp\CShaprt\MVC\DammioMVC\bin\EntityFramework.SqlServer.dll
+D:\Profile\CSharp\CShaprt\MVC\DammioMVC\bin\EntityFramework.xml
+D:\Profile\CSharp\CShaprt\MVC\DammioMVC\bin\EntityFramework.SqlServer.xml
