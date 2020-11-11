@@ -18,11 +18,13 @@ namespace DammioMVC
                 url: "{controller}/{action}/{id}",
                 defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
             );
-            //Câu trúc đường dẫn được thay đổi.
-            routes.MapRoute(
-                 name: "Custom",
-                 url: "{controller}/{action}/{ten}/{tuoi}"
-             ) ;
+            ////Câu trúc đường dẫn được thay đổi.
+            //routes.MapRoute(
+            //     name: "Custom",
+            //     url: "{controller}/{action}/{ten}/{tuoi}"
+            // ) ;
+
+            
         }
     }
 }

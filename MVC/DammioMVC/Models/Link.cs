@@ -11,7 +11,7 @@ namespace DammioMVC.Models
 {
     using System;
     using System.Collections.Generic;
-    
+
     public partial class Link
     {
         public int LinkID { get; set; }
@@ -19,7 +19,10 @@ namespace DammioMVC.Models
         public string LinkURL { get; set; }
         public string LinkDescription { get; set; }
         public Nullable<int> CategoryID { get; set; }
-    
+
+        public string CategoryName { get; set; }
         public virtual Category Category { get; set; }
+
+
     }
 }

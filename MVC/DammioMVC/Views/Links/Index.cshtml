@@ -3,50 +3,79 @@
 @{
     ViewBag.Title = "Index";
     Layout = "~/Views/Shared/_Layout.cshtml";
+
 }
 
 <h2>Index</h2>
 
 <p>
     @Html.ActionLink("Create New", "Create")
-</p>
-<table class="table">
-    <tr>
-        <th>
-            @Html.DisplayNameFor(model => model.LinkName)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.LinkURL)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.LinkDescription)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.Category.CategoryName)
-        </th>
-        <th></th>
-    </tr>
 
-@foreach (var item in Model) {
-    <tr>
-        <td>
-            @Html.DisplayFor(modelItem => item.LinkName)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.LinkURL)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.LinkDescription)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Category.CategoryName)
-        </td>
-        <td>
-            @Html.ActionLink("Edit", "Edit", new { id=item.LinkID }) |
-            @Html.ActionLink("Details", "Details", new { id=item.LinkID }) |
-            @Html.ActionLink("Delete", "Delete", new { id=item.LinkID })
-        </td>
-    </tr>
+    <!-- 1. Đoạn cần thêm -->
+    @using (Html.BeginForm("Index", "Link", FormMethod.Get))
+    {
+    <p>
+        Title: @Html.TextBox("SearchString") --- Category: @Html.DropDownList("categoryID", "All") <input type="submit" value="Tìm kiếm" />
+    </p>
 }
+    <!-- Kết thúc -->
+    </p>
 
-</table>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.LinkName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LinkURL)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LinkDescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CategoryID)
+            </th>
+
+
+            <!-- 2. Đoạn cần thêm-->
+            <th>
+                @Html.DisplayNameFor(model => model.CategoryName)
+            </th>
+            <!-- Kết thúc -->
+
+
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LinkName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LinkURL)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LinkDescription)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CategoryID)
+                </td>
+
+                <!-- 3. Đoạn cần thêm-->
+                <td>
+                    @Html.DisplayFor(modelItem => item.CategoryName)
+                </td>
+                <!-- Kết thúc -->
+
+
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.LinkID }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.LinkID }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.LinkID })
+                </td>
+            </tr>
+        }
+
+    </table>

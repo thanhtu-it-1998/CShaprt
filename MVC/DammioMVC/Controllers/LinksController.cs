@@ -14,12 +14,56 @@ namespace DammioMVC.Controllers
     {
         private DammioMVCEntities db = new DammioMVCEntities();
 
-        // GET: Links
-        public ActionResult Index()
+        //// GET: Links
+        //public ActionResult Index()
+        //{
+        //    var links = db.Links.Include(l => l.Category);
+        //    return View(links.ToList());
+        //}
+
+        // GET: Link
+        [HttpPost]
+        public ActionResult Index(string searchString, int categoryID = 0)
         {
-            var links = db.Links.Include(l => l.Category);
-            return View(links.ToList());
+            //1. Tạo danh sách danh mục để hiển thị ở giao diện View thông qua DropDownList
+            var categories = from c in db.Categories select c;
+            ViewBag.categoryID = new SelectList(categories, "CategoryID", "CategoryName"); // danh sách Category
+
+            //2. Tạo câu truy vấn kết 2 bảng Link, Category bằng mệnh đề join
+            var links = from l in db.Links
+                        join c in db.Categories on l.CategoryID equals c.CategoryID
+                        select new { l.LinkID, l.LinkName, l.LinkURL, l.LinkDescription, l.CategoryID, c.CategoryName };
+
+            //3. Tìm kiếm chuỗi truy vấn
+            if (!String.IsNullOrEmpty(searchString))
+            {
+                links = links.Where(s => s.LinkName.Contains(searchString));
+            }
+
+            //4. Tìm kiếm theo CategoryID
+            if (categoryID != 0)
+            {
+                links = links.Where(x => x.CategoryID == categoryID);
+            }
+
+            //5. Chuyển đổi kết quả từ var sang danh sách List<Link>
+            List<Link> listLinks = new List<Link>();
+            foreach (var item in links)
+            {
+                Link temp = new Link();
+                temp.CategoryID = item.CategoryID;
+                temp.CategoryName = item.CategoryName;
+                temp.LinkDescription = item.LinkDescription;
+                temp.LinkID = item.LinkID;
+                temp.LinkName = item.LinkName;
+                temp.LinkURL = item.LinkURL;
+                listLinks.Add(temp);
+            }
+
+            return View(listLinks);
         }
+
+
 
         // GET: Links/Details/5
         public ActionResult Details(int? id)

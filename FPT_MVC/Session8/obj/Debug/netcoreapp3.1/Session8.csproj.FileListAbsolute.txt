@@ -116,3 +116,4 @@ D:\Profile\CSharp\CShaprt\FPT_MVC\Session8\bin\Debug\netcoreapp3.1\Microsoft.Web
 D:\Profile\CSharp\CShaprt\FPT_MVC\Session8\obj\Debug\netcoreapp3.1\Session8.csproj.CoreCompileInputs.cache
 D:\Profile\CSharp\CShaprt\FPT_MVC\Session8\obj\Debug\netcoreapp3.1\Session8.MvcApplicationPartsAssemblyInfo.cache
 D:\Profile\CSharp\CShaprt\FPT_MVC\Session8\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptParitial.cshtml.g.cs
+D:\Profile\CSharp\CShaprt\FPT_MVC\Session8\obj\Debug\netcoreapp3.1\Razor\Views\Book\Index.cshtml.g.cs

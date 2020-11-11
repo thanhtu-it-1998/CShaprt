@@ -7,5 +7,7 @@ namespace Session8.Models
 {
     public class CustomerModel
     {
+        public string Name { set; get; }
+        public string EmailId { set; get; }
     }
 }
