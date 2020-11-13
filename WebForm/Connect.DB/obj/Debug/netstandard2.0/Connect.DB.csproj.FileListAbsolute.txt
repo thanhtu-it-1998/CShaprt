@@ -1,5 +1,0 @@
-D:\Profile\CSharp\CShaprt\WebForm\Connect.DB\bin\Debug\netstandard2.0\Connect.DB.deps.json
-D:\Profile\CSharp\CShaprt\WebForm\Connect.DB\bin\Debug\netstandard2.0\Connect.DB.dll
-D:\Profile\CSharp\CShaprt\WebForm\Connect.DB\obj\Debug\netstandard2.0\Connect.DB.csprojAssemblyReference.cache
-D:\Profile\CSharp\CShaprt\WebForm\Connect.DB\obj\Debug\netstandard2.0\Connect.DB.AssemblyInfoInputs.cache
-D:\Profile\CSharp\CShaprt\WebForm\Connect.DB\obj\Debug\netstandard2.0\Connect.DB.AssemblyInfo.cs
