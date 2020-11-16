@@ -13,10 +13,10 @@ namespace JobLibrary
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class JobsDbEntities : DbContext
+    public partial class JobsDbEntities1 : DbContext
     {
-        public JobsDbEntities()
-            : base("JobsDbEntities")
+        public JobsDbEntities1()
+            : base("JobsDbEntities1")
         {
             this.Configuration.LazyLoadingEnabled = false;
         }

@@ -31,7 +31,7 @@
           <Property Name="City" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
           <Property Name="Email" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
         </EntityType>
-        <EntityContainer Name="JobsDbEntities" annotation:LazyLoadingEnabled="true">
+        <EntityContainer Name="JobsDbEntities1" annotation:LazyLoadingEnabled="true">
           <EntitySet Name="Companies" EntityType="Self.Company" />
         </EntityContainer>
       </Schema>
@@ -39,7 +39,7 @@
     <!-- C-S mapping content -->
     <edmx:Mappings>
       <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
-        <EntityContainerMapping StorageEntityContainer="JobsDbModelStoreContainer" CdmEntityContainer="JobsDbEntities">
+        <EntityContainerMapping StorageEntityContainer="JobsDbModelStoreContainer" CdmEntityContainer="JobsDbEntities1">
           <EntitySetMapping Name="Companies">
             <EntityTypeMapping TypeName="JobsDbModel.Company">
               <MappingFragment StoreEntitySet="Company">

@@ -9,7 +9,7 @@
     <Property Name="City" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
     <Property Name="Email" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
   </EntityType>
-  <EntityContainer Name="JobsDbEntities" annotation:LazyLoadingEnabled="true">
+  <EntityContainer Name="JobsDbEntities1" annotation:LazyLoadingEnabled="true">
     <EntitySet Name="Companies" EntityType="Self.Company" />
   </EntityContainer>
 </Schema>

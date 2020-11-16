@@ -3,22 +3,19 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Configuration;
-using System.Data.SqlClient;
 
-namespace JobLibrary.BLL
+namespace JobLibrary.DAL
 {
-    public class CompanyBLL
+    public class CompanyDAL
     {
-        JobsDbEntities dbContext;
-        public CompanyBLL(JobsDbEntities _dbContext)
+        JobsDbEntities1 dbContext;
+        public CompanyDAL(JobsDbEntities1 _dbContext)
         {
             dbContext = _dbContext;
         }
 
-        public List<Company> getPaged()
+        public List<Company> GetCompanies()
         {
-
             var query = (from obj in dbContext.Companies select obj).ToList();
             return query;
         }

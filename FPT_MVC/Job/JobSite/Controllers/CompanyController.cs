@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using JobLibrary;
-using JobLibrary.BLL;
+using JobLibrary.DAL;
 
 namespace JobSite.Controllers
 {
@@ -13,9 +13,9 @@ namespace JobSite.Controllers
         // GET: Company
         public ActionResult Index()
         {
-            JobsDbEntities company = new JobsDbEntities();
-            CompanyBLL companyBusLayer = new CompanyBLL(company);
-            List<Company> companyList = companyBusLayer.getPaged();
+            JobsDbEntities1 company = new JobsDbEntities1();
+            CompanyDAL companyDAL = new JobLibrary.DAL.CompanyDAL(company);
+            List<JobLibrary.Company> companyList = companyDAL.GetCompanies();
             return View(companyList);
         }
     }
