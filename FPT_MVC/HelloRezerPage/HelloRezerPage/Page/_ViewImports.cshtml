@@ -1,0 +1,19 @@
+﻿@page
+@model HelloRezerPage.Page._ViewImportsModel
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Hello</title>
+</head>
+<body>
+    <h1>@Model.Heading.Message</h1>
+    <hr />
+    <h2>@Model.SubHeadinh </h2>
+    <form method="post">
+        <label asp-for="Heading.Message">Enter message: </label>
+        <br /> <br />
+        <input type="text" asp-for="Heading.Message" />
+        <br /> <br />
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>

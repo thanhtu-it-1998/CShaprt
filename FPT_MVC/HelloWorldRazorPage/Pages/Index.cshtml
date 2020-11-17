@@ -1,0 +1,36 @@
+﻿@page
+@model HelloWorldRazorPage.Pages.IndexModel
+
+    <html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <p>Id: <h1>@Model.Heading.Id</h1></p>
+        <p>Title: <h1>@Model.Heading.Title</h1></p>
+        <p>ImgURL: <h1>@Model.Heading.ImgURL</h1></p>
+        <p>Content: <h1>@Model.Heading.Content</h1></p>
+        <p>Description: <h1>@Model.Heading.Description</h1> </p>
+        <hr />
+        <h2>@Model.SubHeading</h2>
+        <form method="post">
+            <label asp-for="Heading.Id">Enter Id: </label>
+            <input type="text" asp-for="Heading.Id" />
+            <br /> <br />
+            <label asp-for="Heading.Title">Enter Title: </label>
+            <input type="text" asp-for="Heading.Title" />
+            <br /> <br />
+            <label asp-for="Heading.ImgURL">Enter ImgURL: </label>
+            <input type="text" asp-for="Heading.ImgURL" />
+            <br /> <br />
+            <label asp-for="Heading.Content">Enter Content: </label>
+            <input type="text" asp-for="Heading.Id" />
+            <br /> <br />
+            <label asp-for="Heading.Description">Enter Description: </label>
+            <input type="text" asp-for="Heading.Description" />
+            <br /> <br />
+            <button type="submit">Submit</button>
+        </form>
+    </body>
+    </html>
+

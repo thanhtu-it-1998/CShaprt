@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h1>@Model.Message</h1>
+<hr />
+<h2>@ViewBag.Message</h2>
+<form method="post" asp-controller="Home" asp-action="Index">
+    <label asp-for="Message">Enter Message: </label>
+    <br />
+    <br />
+    <input type="text" asp-for="Message" />
+    <br />
+    <br />
+    <button type="submit">Submit</button>
+</form>
+

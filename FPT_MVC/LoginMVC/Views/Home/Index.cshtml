@@ -1,0 +1,24 @@
+﻿@model LoginMVC.Models.AppMessage
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <h1>@Model.UserName</h1>
+    <h1>@Model.PassWorld</h1>
+    <hr />
+    <h2>@ViewBag.Message</h2>
+    <form method="post" asp-controller="Home" asp-action="Index">
+        <label asp-for="UserName">UserName: </label>
+        <br />
+        <input type="text" asp-for="UserName"/>
+        <br />
+        <label asp-for="PassWorld">PassWorld: </label>
+        <br />
+        <input type="text" asp-for="PassWorld" />
+        <br /> <br />
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>

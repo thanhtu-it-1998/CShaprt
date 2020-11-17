@@ -1,0 +1,12 @@
+D:\Profile\CSharp\CShaprt\FPT_MVC\HelloRezerPage\HelloRezerPage\obj\Debug\netcoreapp3.1\HelloRezerPage.csprojAssemblyReference.cache
+D:\Profile\CSharp\CShaprt\FPT_MVC\HelloRezerPage\HelloRezerPage\obj\Debug\netcoreapp3.1\HelloRezerPage.AssemblyInfoInputs.cache
+D:\Profile\CSharp\CShaprt\FPT_MVC\HelloRezerPage\HelloRezerPage\obj\Debug\netcoreapp3.1\HelloRezerPage.AssemblyInfo.cs
+D:\Profile\CSharp\CShaprt\FPT_MVC\HelloRezerPage\HelloRezerPage\obj\Debug\netcoreapp3.1\HelloRezerPage.csproj.CoreCompileInputs.cache
+D:\Profile\CSharp\CShaprt\FPT_MVC\HelloRezerPage\HelloRezerPage\obj\Debug\netcoreapp3.1\HelloRezerPage.MvcApplicationPartsAssemblyInfo.cache
+D:\Profile\CSharp\CShaprt\FPT_MVC\HelloRezerPage\HelloRezerPage\obj\Debug\netcoreapp3.1\HelloRezerPage.RazorAssemblyInfo.cache
+D:\Profile\CSharp\CShaprt\FPT_MVC\HelloRezerPage\HelloRezerPage\obj\Debug\netcoreapp3.1\HelloRezerPage.RazorAssemblyInfo.cs
+D:\Profile\CSharp\CShaprt\FPT_MVC\HelloRezerPage\HelloRezerPage\obj\Debug\netcoreapp3.1\HelloRezerPage.TagHelpers.input.cache
+D:\Profile\CSharp\CShaprt\FPT_MVC\HelloRezerPage\HelloRezerPage\obj\Debug\netcoreapp3.1\HelloRezerPage.TagHelpers.output.cache
+D:\Profile\CSharp\CShaprt\FPT_MVC\HelloRezerPage\HelloRezerPage\obj\Debug\netcoreapp3.1\HelloRezerPage.RazorCoreGenerate.cache
+D:\Profile\CSharp\CShaprt\FPT_MVC\HelloRezerPage\HelloRezerPage\obj\Debug\netcoreapp3.1\HelloRezerPage.dll
+D:\Profile\CSharp\CShaprt\FPT_MVC\HelloRezerPage\HelloRezerPage\obj\Debug\netcoreapp3.1\HelloRezerPage.pdb
