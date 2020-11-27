@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Hoc_Tap\\Learn_CSharp_FPT\\WAD\\ContosoCrafts\\ContosoCrafts.WedSite\\ContosoCrafts.WedSite.csproj": {}
+    "D:\\Profile\\CSharp\\CShaprt\\FPT_MVC\\ContosoCrafts\\ContosoCrafts.WedSite\\ContosoCrafts.WedSite.csproj": {}
   },
   "projects": {
-    "E:\\Hoc_Tap\\Learn_CSharp_FPT\\WAD\\ContosoCrafts\\ContosoCrafts.WedSite\\ContosoCrafts.WedSite.csproj": {
+    "D:\\Profile\\CSharp\\CShaprt\\FPT_MVC\\ContosoCrafts\\ContosoCrafts.WedSite\\ContosoCrafts.WedSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Hoc_Tap\\Learn_CSharp_FPT\\WAD\\ContosoCrafts\\ContosoCrafts.WedSite\\ContosoCrafts.WedSite.csproj",
+        "projectUniqueName": "D:\\Profile\\CSharp\\CShaprt\\FPT_MVC\\ContosoCrafts\\ContosoCrafts.WedSite\\ContosoCrafts.WedSite.csproj",
         "projectName": "ContosoCrafts.WedSite",
-        "projectPath": "E:\\Hoc_Tap\\Learn_CSharp_FPT\\WAD\\ContosoCrafts\\ContosoCrafts.WedSite\\ContosoCrafts.WedSite.csproj",
-        "packagesPath": "C:\\Users\\Hieu_iceTea\\.nuget\\packages\\",
-        "outputPath": "E:\\Hoc_Tap\\Learn_CSharp_FPT\\WAD\\ContosoCrafts\\ContosoCrafts.WedSite\\obj\\",
+        "projectPath": "D:\\Profile\\CSharp\\CShaprt\\FPT_MVC\\ContosoCrafts\\ContosoCrafts.WedSite\\ContosoCrafts.WedSite.csproj",
+        "packagesPath": "C:\\Users\\Truong Thanh Tu\\.nuget\\packages\\",
+        "outputPath": "D:\\Profile\\CSharp\\CShaprt\\FPT_MVC\\ContosoCrafts\\ContosoCrafts.WedSite\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Hieu_iceTea\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Truong Thanh Tu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
