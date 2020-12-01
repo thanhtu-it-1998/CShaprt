@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 0,
+    "Name": "Homeland Elegies",
+    "Image": "/img/Product1.jpg",
+    "Price": "12.06"
+  },
+  {
+    "Id": 1,
+    "Name": "Magnolia Table",
+    "Image": "/img/Product2.jpg",
+    "Price": "8.20"
+  },
+  {
+    "Id": 2,
+    "Name": "Find Your Path: Honor Your Body,",
+    "Image": "/img/Product3.jpg",
+    "Price": "17.60"
+  },
+  {
+    "Id": 3,
+    "Name": "Deacon King Kong",
+    "Image": "/img/Product4.jpg",
+    "Price": "20.03"
+  }
+]

@@ -1,0 +1,18 @@
+﻿@page
+@model Practive_T1909M_TruongThanhTu.Pages.Products.ProductModel
+@{
+    ViewData["Title"] = "Product page";
+}
+
+@foreach(var product in Model.Products)
+{
+<div class="w3-row-padding w3-padding-16 w3-center" id="food">
+    <div class="row">
+            <div class="col-md-3 col-sm-6 col-12">
+                <img src="@product.Image" alt="hihi" style="height:300px">
+                <h3>@product.Name</h3>
+                <p>@product.Price $</p>
+            </div>
+    </div>
+</div>
+}
