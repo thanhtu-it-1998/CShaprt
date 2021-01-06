@@ -20,7 +20,7 @@ namespace RazorPagesMovie.Models
         [DataType(DataType.Currency)]
         [Column(TypeName = "decimal(18, 2)")]
         public decimal Price { get; set; }
-
+            
         [RegularExpression(@"^[A-Z]+[a-zA-Z]*$")]
         [Required]
         [StringLength(30)]
