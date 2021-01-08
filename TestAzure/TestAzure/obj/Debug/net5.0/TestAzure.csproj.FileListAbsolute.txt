@@ -1,0 +1,281 @@
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\appsettings.Development.json
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\appsettings.json
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\TestAzure.exe
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\TestAzure.deps.json
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\TestAzure.runtimeconfig.json
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\TestAzure.runtimeconfig.dev.json
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\TestAzure.dll
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\ref\TestAzure.dll
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\TestAzure.pdb
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\TestAzure.Views.dll
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\TestAzure.Views.pdb
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\obj\Debug\net5.0\TestAzure.csprojAssemblyReference.cache
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\obj\Debug\net5.0\TestAzure.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\obj\Debug\net5.0\TestAzure.AssemblyInfoInputs.cache
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\obj\Debug\net5.0\TestAzure.AssemblyInfo.cs
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\obj\Debug\net5.0\TestAzure.csproj.CoreCompileInputs.cache
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\obj\Debug\net5.0\TestAzure.MvcApplicationPartsAssemblyInfo.cache
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\obj\Debug\net5.0\TestAzure.RazorAssemblyInfo.cache
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\obj\Debug\net5.0\TestAzure.RazorAssemblyInfo.cs
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\obj\Debug\net5.0\staticwebassets\TestAzure.StaticWebAssets.Manifest.cache
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\obj\Debug\net5.0\staticwebassets\TestAzure.StaticWebAssets.xml
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\obj\Debug\net5.0\scopedcss\bundle\TestAzure.styles.css
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\obj\Debug\net5.0\TestAzure.TagHelpers.input.cache
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\obj\Debug\net5.0\TestAzure.TagHelpers.output.cache
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\obj\Debug\net5.0\TestAzure.RazorCoreGenerate.cache
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\obj\Debug\net5.0\TestAzure.RazorTargetAssemblyInfo.cache
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\obj\Debug\net5.0\TestAzure.RazorTargetAssemblyInfo.cs
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\obj\Debug\net5.0\TestAzure.Views.pdb
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\obj\Debug\net5.0\TestAzure.dll
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\obj\Debug\net5.0\ref\TestAzure.dll
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\obj\Debug\net5.0\TestAzure.pdb
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\obj\Debug\net5.0\TestAzure.genruntimeconfig.cache
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\obj\Debug\net5.0\TestAzure.csproj.CopyComplete
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\Humanizer.dll
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\FPT Aptech _ SEM 3\FPT-Aptech_SEM3\TestAzure\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\appsettings.json
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\TestAzure.exe
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\TestAzure.deps.json
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\TestAzure.runtimeconfig.json
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\TestAzure.runtimeconfig.dev.json
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\TestAzure.dll
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\ref\TestAzure.dll
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\TestAzure.pdb
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\TestAzure.Views.dll
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\TestAzure.Views.pdb
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.csprojAssemblyReference.cache
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.AssemblyInfoInputs.cache
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.AssemblyInfo.cs
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.csproj.CoreCompileInputs.cache
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.RazorAssemblyInfo.cache
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.RazorAssemblyInfo.cs
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\obj\Debug\net5.0\staticwebassets\TestAzure.StaticWebAssets.Manifest.cache
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\obj\Debug\net5.0\staticwebassets\TestAzure.StaticWebAssets.xml
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\obj\Debug\net5.0\scopedcss\bundle\TestAzure.styles.css
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.TagHelpers.input.cache
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.TagHelpers.output.cache
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.RazorCoreGenerate.cache
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.RazorTargetAssemblyInfo.cache
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.RazorTargetAssemblyInfo.cs
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.Views.pdb
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.csproj.CopyComplete
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.dll
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\obj\Debug\net5.0\ref\TestAzure.dll
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.pdb
+C:\Users\Hieu_iceTea\Desktop\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.genruntimeconfig.cache
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\appsettings.Development.json
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\appsettings.json
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\TestAzure.exe
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\TestAzure.deps.json
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\TestAzure.runtimeconfig.json
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\TestAzure.runtimeconfig.dev.json
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\TestAzure.dll
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\ref\TestAzure.dll
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\TestAzure.pdb
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\TestAzure.Views.dll
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\TestAzure.Views.pdb
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.csprojAssemblyReference.cache
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.AssemblyInfoInputs.cache
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.AssemblyInfo.cs
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.csproj.CoreCompileInputs.cache
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.MvcApplicationPartsAssemblyInfo.cache
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.RazorAssemblyInfo.cache
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.RazorAssemblyInfo.cs
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\obj\Debug\net5.0\staticwebassets\TestAzure.StaticWebAssets.Manifest.cache
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\obj\Debug\net5.0\staticwebassets\TestAzure.StaticWebAssets.xml
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\obj\Debug\net5.0\scopedcss\bundle\TestAzure.styles.css
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.TagHelpers.input.cache
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.TagHelpers.output.cache
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.RazorCoreGenerate.cache
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.RazorTargetAssemblyInfo.cache
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.RazorTargetAssemblyInfo.cs
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.Views.pdb
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.csproj.CopyComplete
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.dll
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\obj\Debug\net5.0\ref\TestAzure.dll
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.pdb
+E:\Hoc_Tap\Learn_CSharp_FPT\WAD\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.genruntimeconfig.cache
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\appsettings.Development.json
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\appsettings.json
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\TestAzure.exe
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\TestAzure.deps.json
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\TestAzure.runtimeconfig.json
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\TestAzure.runtimeconfig.dev.json
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\TestAzure.dll
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\ref\TestAzure.dll
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\TestAzure.pdb
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\TestAzure.Views.dll
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\TestAzure.Views.pdb
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.csprojAssemblyReference.cache
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.AssemblyInfoInputs.cache
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.AssemblyInfo.cs
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.csproj.CoreCompileInputs.cache
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.MvcApplicationPartsAssemblyInfo.cache
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.RazorAssemblyInfo.cache
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.RazorAssemblyInfo.cs
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\obj\Debug\net5.0\staticwebassets\TestAzure.StaticWebAssets.Manifest.cache
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\obj\Debug\net5.0\staticwebassets\TestAzure.StaticWebAssets.xml
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\obj\Debug\net5.0\scopedcss\bundle\TestAzure.styles.css
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.TagHelpers.input.cache
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.TagHelpers.output.cache
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.RazorCoreGenerate.cache
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.RazorTargetAssemblyInfo.cache
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.RazorTargetAssemblyInfo.cs
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.Views.pdb
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.csproj.CopyComplete
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.dll
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\obj\Debug\net5.0\ref\TestAzure.dll
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.pdb
+D:\Profile\CSharp\CShaprt\TestAzure\TestAzure\obj\Debug\net5.0\TestAzure.genruntimeconfig.cache

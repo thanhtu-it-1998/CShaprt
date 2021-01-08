@@ -11,10 +11,10 @@
           "lib/netstandard2.0/Humanizer.dll": {}
         }
       },
-      "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/5.0.1": {
+      "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/5.0.0-rc.2.20475.17": {
         "type": "package",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.Relational": "5.0.1"
+          "Microsoft.EntityFrameworkCore.Relational": "5.0.0-rc.2.20475.6"
         },
         "compile": {
           "lib/net5.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll": {}
@@ -2206,10 +2206,10 @@
         "logo.png"
       ]
     },
-    "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/5.0.1": {
-      "sha512": "KJi0in1wzPmJA8w0IdzaZPAdXr/VIBJJkNg3ytjmbwz7BNXVwgEZARYt0OL8sBzH6m+rQZUabs/uP3qA6XI9jw==",
+    "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/5.0.0-rc.2.20475.17": {
+      "sha512": "qpWKydilzitMpwRcz8SeCwhd20arXZZRTRJKyvRh2qWH8IbZQodZNhaCD5PSnHzGFZ4Jo1et2h1PHvNCsGcTiw==",
       "type": "package",
-      "path": "microsoft.aspnetcore.diagnostics.entityframeworkcore/5.0.1",
+      "path": "microsoft.aspnetcore.diagnostics.entityframeworkcore/5.0.0-rc.2.20475.17",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2217,7 +2217,7 @@
         "THIRD-PARTY-NOTICES.TXT",
         "lib/net5.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll",
         "lib/net5.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.xml",
-        "microsoft.aspnetcore.diagnostics.entityframeworkcore.5.0.1.nupkg.sha512",
+        "microsoft.aspnetcore.diagnostics.entityframeworkcore.5.0.0-rc.2.20475.17.nupkg.sha512",
         "microsoft.aspnetcore.diagnostics.entityframeworkcore.nuspec"
       ]
     },
@@ -7493,7 +7493,8 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 5.0.1",
+      "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 5.0.0-rc.2.20475.17",
+      "Microsoft.EntityFrameworkCore >= 5.0.1",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.1",
       "Microsoft.EntityFrameworkCore.Sqlite >= 5.0.1",
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.1",
@@ -7545,6 +7546,10 @@
         "targetAlias": "net5.0",
         "dependencies": {
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[5.0.0-rc.2.20475.17, )"
+          },
+          "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[5.0.1, )"
           },

@@ -25,7 +25,8 @@
     ".NETCoreApp,Version=v5.0": {
       "ContosoUniversity/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "5.0.1",
+          "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "5.0.0-rc.2.20475.17",
+          "Microsoft.EntityFrameworkCore": "5.0.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.1",
           "Microsoft.EntityFrameworkCore.Sqlite": "5.0.1",
           "Microsoft.EntityFrameworkCore.Tools": "5.0.1",
@@ -328,14 +329,14 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/5.0.1": {
+      "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/5.0.0-rc.2.20475.17": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Relational": "5.0.1"
         },
         "runtime": {
           "lib/net5.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll": {
-            "assemblyVersion": "5.0.1.0",
-            "fileVersion": "5.0.120.60107"
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.47517"
           }
         },
         "compile": {
@@ -3699,12 +3700,12 @@
       "path": "humanizer.core/2.8.26",
       "hashPath": "humanizer.core.2.8.26.nupkg.sha512"
     },
-    "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/5.0.1": {
+    "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/5.0.0-rc.2.20475.17": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-KJi0in1wzPmJA8w0IdzaZPAdXr/VIBJJkNg3ytjmbwz7BNXVwgEZARYt0OL8sBzH6m+rQZUabs/uP3qA6XI9jw==",
-      "path": "microsoft.aspnetcore.diagnostics.entityframeworkcore/5.0.1",
-      "hashPath": "microsoft.aspnetcore.diagnostics.entityframeworkcore.5.0.1.nupkg.sha512"
+      "sha512": "sha512-qpWKydilzitMpwRcz8SeCwhd20arXZZRTRJKyvRh2qWH8IbZQodZNhaCD5PSnHzGFZ4Jo1et2h1PHvNCsGcTiw==",
+      "path": "microsoft.aspnetcore.diagnostics.entityframeworkcore/5.0.0-rc.2.20475.17",
+      "hashPath": "microsoft.aspnetcore.diagnostics.entityframeworkcore.5.0.0-rc.2.20475.17.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Html.Abstractions/2.2.0": {
       "type": "package",

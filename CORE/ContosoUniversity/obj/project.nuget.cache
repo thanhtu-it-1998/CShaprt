@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "PDHTS/PI+EdTg6H84x8u3deWyNDTN4yvOnPBeKgbBzSVSm0Wg8L9yvPijvg3RwdgOPrlgCqOiXlahuKrc6J7PA==",
+  "dgSpecHash": "oQyI//a+TdfOX0UM+eEvprojKA/SEuYjFcSUcep72EVWF6wfLgZacX0cLvW0m5NOVjbYYvk0nh+CehVsS3Wolg==",
   "success": true,
   "projectFilePath": "D:\\Profile\\CSharp\\CShaprt\\CORE\\ContosoUniversity\\ContosoUniversity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Truong Thanh Tu\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
-    "C:\\Users\\Truong Thanh Tu\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\5.0.1\\microsoft.aspnetcore.diagnostics.entityframeworkcore.5.0.1.nupkg.sha512",
+    "C:\\Users\\Truong Thanh Tu\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\5.0.0-rc.2.20475.17\\microsoft.aspnetcore.diagnostics.entityframeworkcore.5.0.0-rc.2.20475.17.nupkg.sha512",
     "C:\\Users\\Truong Thanh Tu\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Truong Thanh Tu\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
     "C:\\Users\\Truong Thanh Tu\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\5.0.0\\microsoft.aspnetcore.razor.language.5.0.0.nupkg.sha512",

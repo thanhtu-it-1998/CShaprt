@@ -46,6 +46,10 @@
           "dependencies": {
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
+              "version": "[5.0.0-rc.2.20475.17, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
               "version": "[5.0.1, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
