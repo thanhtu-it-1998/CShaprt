@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Hoc_Tap\\Learn_CSharp_FPT\\WAD\\NetCoreProject\\NetCoreProject.csproj": {}
+    "D:\\Profile\\CSharp\\CShaprt\\NetCoreProject\\NetCoreProject.csproj": {}
   },
   "projects": {
-    "E:\\Hoc_Tap\\Learn_CSharp_FPT\\WAD\\NetCoreProject\\NetCoreProject.csproj": {
+    "D:\\Profile\\CSharp\\CShaprt\\NetCoreProject\\NetCoreProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Hoc_Tap\\Learn_CSharp_FPT\\WAD\\NetCoreProject\\NetCoreProject.csproj",
+        "projectUniqueName": "D:\\Profile\\CSharp\\CShaprt\\NetCoreProject\\NetCoreProject.csproj",
         "projectName": "NetCoreProject",
-        "projectPath": "E:\\Hoc_Tap\\Learn_CSharp_FPT\\WAD\\NetCoreProject\\NetCoreProject.csproj",
-        "packagesPath": "C:\\Users\\Hieu_iceTea\\.nuget\\packages\\",
-        "outputPath": "E:\\Hoc_Tap\\Learn_CSharp_FPT\\WAD\\NetCoreProject\\obj\\",
+        "projectPath": "D:\\Profile\\CSharp\\CShaprt\\NetCoreProject\\NetCoreProject.csproj",
+        "packagesPath": "C:\\Users\\Truong Thanh Tu\\.nuget\\packages\\",
+        "outputPath": "D:\\Profile\\CSharp\\CShaprt\\NetCoreProject\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Hieu_iceTea\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Truong Thanh Tu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

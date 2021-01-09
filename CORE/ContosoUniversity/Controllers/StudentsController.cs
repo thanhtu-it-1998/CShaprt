@@ -148,5 +148,10 @@ namespace ContosoUniversity.Controllers
         {
             return _context.Students.Any(e => e.ID == id);
         }
+
+        public async Task<IActionResult> Create (string sortOrder)
+        {
+            return RedirectToAction(nameof(Index));
+        }
     }
 }
