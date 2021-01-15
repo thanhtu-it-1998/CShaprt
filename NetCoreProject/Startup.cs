@@ -32,6 +32,7 @@ namespace NetCoreProject
                     Configuration["ConnectionStrings:NetCoreProjectConnection"]);
 
             });
+            services.AddHealthChecks();
             services.AddScoped<IStoreRepository, EFStoreRespository>();
         }
 
@@ -58,16 +59,25 @@ namespace NetCoreProject
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
-                    name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
-            });
+                    "catpage", "{category}/Page{productPage:int}",
+                    new { Controller = "Home", action = "Index" });
 
-            app.UseEndpoints(endpoints =>
-            {
                 endpoints.MapControllerRoute(
-                   name: "paginate",
-                   "Product/Page(productPage)",
-                    new { controller = "Home", action = "Index" });
+                    "page", "Page{productPage:int}",
+                    new { Controller = "Home", action = "Index", productPage = 1 });
+
+                endpoints.MapControllerRoute(
+                    "category", "{category}",
+                    new { Controller = "Home", action = "Index", productPage = 1 });
+
+                endpoints.MapControllerRoute(
+                    "pagination", "Products/Page{productPage}",
+                    new { Controller = "Home", action = "Index", productPage = 1 });
+                endpoints.MapDefaultControllerRoute();
+              //  endpoints.MapRazorPages();
+
+                //name: "default",
+                //pattern: "{controller=Home}/{action=Index}/{id?}");
             });
             SeedData.EnsurePopulated(app);
         }

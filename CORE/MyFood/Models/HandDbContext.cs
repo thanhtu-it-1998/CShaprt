@@ -8,6 +8,6 @@ namespace MyFood.Models
     public interface HandDbContext
     {
         List<Food> GetAll();
-        List<Food> GetAllPage(string keyword, int pageIndex,int pageSize);
+        List<Food> GetAllPage(string keyword, int pageIndex,int pageSize); 
     }
 }

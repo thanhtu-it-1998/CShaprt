@@ -16,8 +16,7 @@ namespace MyFood.Controllers
         }
         public IActionResult Index()
         {
-            var foods = _context.Foods.Find();
-            return View(foods);
+            return View();
         }
     }
 }
